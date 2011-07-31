@@ -1,0 +1,6 @@
+The methanol_1728.pdb & methanol_opls.itp are from the gromacs website
+http://www.gromacs.org/@api/deki/files/19/=methanol_opls.tar.gz
+It is different from Jorgensen's parameters, lacking the [ pairs] part,
+but after comparing the one with Jorgensen's, there are almost no difference.
+
+I am not sure where ethanol_opls.itp is from on 2011-04-05

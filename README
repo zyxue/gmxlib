@@ -1,0 +1,11 @@
+itp files in the form of 
+    sq_x__posre.itp						      # _x_ represent 1, 2, 3...
+    sq_x__sposre.itp
+are the old ones they are copied to 
+    sq_x__posres.itp
+    sq_x__sposres.itp
+so as to match
+   #ifdef POSRES
+in top files when setting up a simulation
+
+2011-07-25
