@@ -1,6 +1,6 @@
 [ moleculetype ]
 ; Name            nrexcl
-v35		  3
+v35             3
 
 [ atoms ]
 ;   nr       type  resnr residue  atom   cgnr     charge       mass  typeB    chargeB      massB
