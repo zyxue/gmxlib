@@ -3,7 +3,7 @@
 ;
 [ moleculetype ]
 ; name  nrexcl
-MeO	3
+MEO	3
 
 [ atoms ]
 ;   nr    type   resnr  residu    atom    cgnr        charge          mass
