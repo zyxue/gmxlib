@@ -1,0 +1,7 @@
+the structures of the 5 chains are not exactly the same, B has a different C
+ends from the rest, which is -COOH. The others' are all COO-. All N ends are
+NH2.
+
+ab_[ABCDE]o.itp are for abo system, that will include super posistion restraints
+([ABCDE]_sposres.itp #ifdef POSRES), I think it's because octane is so poor and
+damaging a solvent.
