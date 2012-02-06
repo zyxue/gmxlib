@@ -1,5 +1,7 @@
+2011-07-25:
+
 itp files in the form of 
-    sq_x__posre.itp						      # _x_ represent 1, 2, 3...
+    sq_x__posre.itp				     # _x_ represent 1, 2, 3...
     sq_x__sposre.itp
 are the old ones they are copied to 
     sq_x__posres.itp
@@ -8,8 +10,10 @@ so as to match
    #ifdef POSRES
 in top files when setting up a simulation
 
-2011-07-25
+2012-12:
 
-TODO:
+tip4p_216_fit_box.gro is the original structure extracted from equilibrated
+simulation with a box size of 1.86824.
 
-Need to find the urea.itp for ffopls 
+tip4p_216.gro is with a box size of 2.00000 so as to avoid overlap when
+stacking multiple boxes together during genbox
