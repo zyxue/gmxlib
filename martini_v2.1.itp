@@ -16,6 +16,7 @@
 
 
 [ defaults ]
+; nbfunc --zyxue
 1 1
 
 [ atomtypes ]
@@ -47,17 +48,20 @@ P4 72.0 0.000 A 0.0 0.0
 P3 72.0 0.000 A 0.0 0.0
 P2 72.0 0.000 A 0.0 0.0
 P1 72.0 0.000 A 0.0 0.0
+
 ; intermediate polar
 Nda 72.0 0.000 A 0.0 0.0
 Nd 72.0 0.000 A 0.0 0.0
 Na 72.0 0.000 A 0.0 0.0
 N0 72.0 0.000 A 0.0 0.0
+
 ; apolar
 C5 72.0 0.000 A 0.0 0.0
 C4 72.0 0.000 A 0.0 0.0
 C3 72.0 0.000 A 0.0 0.0
 C2 72.0 0.000 A 0.0 0.0
 C1 72.0 0.000 A 0.0 0.0
+
 ; charged
 Qda 72.0 0.000 A 0.0 0.0
 Qd 72.0 0.000 A 0.0 0.0
@@ -101,6 +105,7 @@ BP4 72.0 0.000 A 0.0 0.0
 ; RINGS: for ring-ring interactions eps is reduced to 75%, sigma=0.43.
 
 ; i j   funda c6 c12
+; c6 c12 corresponds to sigma, epsilon in oplsaa.ff/ffnonbonded.itp --zyxue
 ; self terms
   P5    P5      1       0.24145E-00     0.26027E-02 ; supra attractive
   P4    P4      1       0.21558E-00     0.23238E-02 ; attractive
