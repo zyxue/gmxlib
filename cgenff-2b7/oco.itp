@@ -1,0 +1,349 @@
+[ moleculetype ]
+; Name            nrexcl
+OCO                 3
+
+[ atoms ]
+;   nr       type  resnr residue  atom   cgnr     charge       mass  typeB    chargeB      massB
+     1   CG331      1    OCO   C1    1     -0.269
+     2   HGA3       1    OCO   H1    1      0.090
+     3   HGA3       1    OCO   H2    1      0.090
+     4   HGA3       1    OCO   H3    1      0.090
+     5   CG321      1    OCO   C2    2     -0.183
+     6   HGA2       1    OCO   H4    2      0.090
+     7   HGA2       1    OCO   H5    2      0.090
+     8   CG321      1    OCO   C3    3     -0.178
+     9   HGA2       1    OCO   H6    3      0.090
+    10   HGA2       1    OCO   H7    3      0.090
+    11   CG321      1    OCO   C4    4     -0.180
+    12   HGA2       1    OCO   H8    4      0.090
+    13   HGA2       1    OCO   H9    4      0.090
+    14   CG321      1    OCO   C5    5     -0.180
+    15   HGA2       1    OCO   H10   5      0.090
+    16   HGA2       1    OCO   H11   5      0.090
+    17   CG321      1    OCO   C6    6     -0.180
+    18   HGA2       1    OCO   H12   6      0.090
+    19   HGA2       1    OCO   H13   6      0.090
+    20   CG321      1    OCO   C7    7     -0.179
+    21   HGA2       1    OCO   H14   7      0.090
+    22   HGA2       1    OCO   H15   7      0.090
+    23   CG321      1    OCO   C8    8      0.051
+    24   HGA2       1    OCO   H16   8      0.090
+    25   HGA2       1    OCO   H17   8      0.090
+    26   OG311      1    OCO   OA    8     -0.653
+    27   HGP1       1    OCO   HO    8      0.421
+
+[ bonds ]
+;  ai    aj funct            c0            c1            c2            c3
+    1     2     1
+    1     3     1
+    1     4     1
+    1     5     1
+    5     6     1
+    5     7     1
+    5     8     1
+    8     9     1
+    8    10     1
+    8    11     1
+   11    12     1
+   11    13     1
+   11    14     1
+   14    15     1
+   14    16     1
+   14    17     1
+   17    18     1
+   17    19     1
+   17    20     1
+   20    21     1
+   20    22     1
+   20    23     1
+   23    24     1
+   23    25     1
+   23    26     1
+   26    27     1
+
+[ pairs ]
+;  ai    aj funct            c0            c1            c2            c3
+    1     9     1 
+    1    10     1 
+    1    11     1 
+    2     6     1 
+    2     7     1 
+    2     8     1 
+    3     6     1 
+    3     7     1 
+    3     8     1 
+    4     6     1 
+    4     7     1 
+    4     8     1 
+    5    12     1 
+    5    13     1 
+    5    14     1 
+    6     9     1 
+    6    10     1 
+    6    11     1 
+    7     9     1 
+    7    10     1 
+    7    11     1 
+    8    15     1 
+    8    16     1 
+    8    17     1 
+    9    12     1 
+    9    13     1 
+    9    14     1 
+   10    12     1 
+   10    13     1 
+   10    14     1 
+   11    18     1 
+   11    19     1 
+   11    20     1 
+   12    15     1 
+   12    16     1 
+   12    17     1 
+   13    15     1 
+   13    16     1 
+   13    17     1 
+   14    21     1 
+   14    22     1 
+   14    23     1 
+   15    18     1 
+   15    19     1 
+   15    20     1 
+   16    18     1 
+   16    19     1 
+   16    20     1 
+   17    24     1 
+   17    25     1 
+   17    26     1 
+   18    21     1 
+   18    22     1 
+   18    23     1 
+   19    21     1 
+   19    22     1 
+   19    23     1 
+   20    27     1 
+   21    24     1 
+   21    25     1 
+   21    26     1 
+   22    24     1 
+   22    25     1 
+   22    26     1 
+   24    27     1 
+   25    27     1 
+
+[ angles ]
+;  ai    aj    ak funct            c0            c1            c2            c3
+    2     1     3     5
+    2     1     4     5
+    2     1     5     5
+    3     1     4     5
+    3     1     5     5
+    4     1     5     5
+    1     5     6     5
+    1     5     7     5
+    1     5     8     5
+    6     5     7     5
+    6     5     8     5
+    7     5     8     5
+    5     8     9     5
+    5     8    10     5
+    5     8    11     5
+    9     8    10     5
+    9     8    11     5
+   10     8    11     5
+    8    11    12     5
+    8    11    13     5
+    8    11    14     5
+   12    11    13     5
+   12    11    14     5
+   13    11    14     5
+   11    14    15     5
+   11    14    16     5
+   11    14    17     5
+   15    14    16     5
+   15    14    17     5
+   16    14    17     5
+   14    17    18     5
+   14    17    19     5
+   14    17    20     5
+   18    17    19     5
+   18    17    20     5
+   19    17    20     5
+   17    20    21     5
+   17    20    22     5
+   17    20    23     5
+   21    20    22     5
+   21    20    23     5
+   22    20    23     5
+   20    23    24     5
+   20    23    25     5
+   20    23    26     5
+   24    23    25     5
+   24    23    26     5
+   25    23    26     5
+   23    26    27     5
+
+[ dihedrals ]
+;  ai    aj    ak    al funct            c0            c1            c2            c3            c4            c5
+    1     5     8     9     9
+    1     5     8    10     9
+    1     5     8    11     9
+    2     1     5     6     9
+    2     1     5     7     9
+    2     1     5     8     9
+    3     1     5     6     9
+    3     1     5     7     9
+    3     1     5     8     9
+    4     1     5     6     9
+    4     1     5     7     9
+    4     1     5     8     9
+    5     8    11    12     9
+    5     8    11    13     9
+    5     8    11    14     9
+    6     5     8     9     9
+    6     5     8    10     9
+    6     5     8    11     9
+    7     5     8     9     9
+    7     5     8    10     9
+    7     5     8    11     9
+    8    11    14    15     9
+    8    11    14    16     9
+    8    11    14    17     9
+    9     8    11    12     9
+    9     8    11    13     9
+    9     8    11    14     9
+   10     8    11    12     9
+   10     8    11    13     9
+   10     8    11    14     9
+   11    14    17    18     9
+   11    14    17    19     9
+   11    14    17    20     9
+   12    11    14    15     9
+   12    11    14    16     9
+   12    11    14    17     9
+   13    11    14    15     9
+   13    11    14    16     9
+   13    11    14    17     9
+   14    17    20    21     9
+   14    17    20    22     9
+   14    17    20    23     9
+   15    14    17    18     9
+   15    14    17    19     9
+   15    14    17    20     9
+   16    14    17    18     9
+   16    14    17    19     9
+   16    14    17    20     9
+   17    20    23    24     9
+   17    20    23    25     9
+   17    20    23    26     9
+   18    17    20    21     9
+   18    17    20    22     9
+   18    17    20    23     9
+   19    17    20    21     9
+   19    17    20    22     9
+   19    17    20    23     9
+   20    23    26    27     9
+   21    20    23    24     9
+   21    20    23    25     9
+   21    20    23    26     9
+   22    20    23    24     9
+   22    20    23    25     9
+   22    20    23    26     9
+   24    23    26    27     9
+   25    23    26    27     9
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; * Toppar stream file generated by					       ;
+; * CHARMM General Force Field (CGenFF) program version 0.9.6 beta	       ;
+; * For use with CGenFF version 2b7					       ;
+; *									       ;
+; 									       ;
+; read rtf card append							       ;
+; * Topologies generated by						       ;
+; * CHARMM General Force Field (CGenFF) program version 0.9.6 beta	       ;
+; *									       ;
+; 36 1									       ;
+; 									       ;
+; ! "penalty" is the highest penalty score of the associated parameters.       ;
+; ! Penalties lower than 10 indicate the analogy is fair; penalties between 10 ;
+; ! and 50 mean some basic validation is recommended; penalties higher than    ;
+; ! 50 indicate poor analogy and mandate extensive validation/optimization.    ;
+; 									       ;
+; RESI *****          0.000 ! param penalty=   0.000 ; charge penalty=   0.000 ;
+; GROUP            ! CHARGE   CH_PENALTY				       ;
+; ATOM C1     CG331  -0.269 !    0.000					       ;
+; ATOM H1     HGA3    0.090 !    0.000					       ;
+; ATOM H2     HGA3    0.090 !    0.000					       ;
+; ATOM H3     HGA3    0.090 !    0.000					       ;
+; ATOM C2     CG321  -0.183 !    0.000					       ;
+; ATOM H4     HGA2    0.090 !    0.000					       ;
+; ATOM H5     HGA2    0.090 !    0.000					       ;
+; ATOM C3     CG321  -0.178 !    0.000					       ;
+; ATOM H6     HGA2    0.090 !    0.000					       ;
+; ATOM H7     HGA2    0.090 !    0.000					       ;
+; ATOM C4     CG321  -0.180 !    0.000					       ;
+; ATOM H8     HGA2    0.090 !    0.000					       ;
+; ATOM H9     HGA2    0.090 !    0.000					       ;
+; ATOM C5     CG321  -0.180 !    0.000					       ;
+; ATOM H10    HGA2    0.090 !    0.000					       ;
+; ATOM H11    HGA2    0.090 !    0.000					       ;
+; ATOM C6     CG321  -0.180 !    0.000					       ;
+; ATOM H12    HGA2    0.090 !    0.000					       ;
+; ATOM H13    HGA2    0.090 !    0.000					       ;
+; ATOM C7     CG321  -0.179 !    0.000					       ;
+; ATOM H14    HGA2    0.090 !    0.000					       ;
+; ATOM H15    HGA2    0.090 !    0.000					       ;
+; ATOM C8     CG321   0.051 !    0.000					       ;
+; ATOM H16    HGA2    0.090 !    0.000					       ;
+; ATOM H17    HGA2    0.090 !    0.000					       ;
+; ATOM O      OG311  -0.653 !    0.000					       ;
+; ATOM H18    HGP1    0.421 !    0.000					       ;
+; 									       ;
+; BOND H5   C2  							       ;
+; BOND H1   C1  							       ;
+; BOND H9   C4  							       ;
+; BOND H2   C1  							       ;
+; BOND C1   C2  							       ;
+; BOND C1   H3  							       ;
+; BOND C2   H4  							       ;
+; BOND C2   C3  							       ;
+; BOND H13  C6  							       ;
+; BOND C4   H8  							       ;
+; BOND C4   C3  							       ;
+; BOND C4   C5  							       ;
+; BOND C3   H6  							       ;
+; BOND C3   H7  							       ;
+; BOND C6   H12 							       ;
+; BOND C6   C5  							       ;
+; BOND C6   C7  							       ;
+; BOND O    H18 							       ;
+; BOND O    C8  							       ;
+; BOND H10  C5  							       ;
+; BOND C5   H11 							       ;
+; BOND H15  C7  							       ;
+; BOND H17  C8  							       ;
+; BOND C7   C8  							       ;
+; BOND C7   H14 							       ;
+; BOND C8   H16 							       ;
+; 									       ;
+; END									       ;
+; 									       ;
+; read param card flex append						       ;
+; * Parameters generated by analogy by					       ;
+; * CHARMM General Force Field (CGenFF) program version 0.9.6 beta	       ;
+; *									       ;
+; 									       ;
+; ! Penalties lower than 10 indicate the analogy is fair; penalties between 10 ;
+; ! and 50 mean some basic validation is recommended; penalties higher than    ;
+; ! 50 indicate poor analogy and mandate extensive validation/optimization.    ;
+; 									       ;
+; BONDS									       ;
+; 									       ;
+; ANGLES								       ;
+; 									       ;
+; DIHEDRALS								       ;
+; 									       ;
+; IMPROPERS								       ;
+; 									       ;
+; END									       ;
+; RETURN								       ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

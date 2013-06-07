@@ -1,0 +1,7 @@
+cp /scratch/p/pomes/zyxue/mono_su_as_charmm22star_fix/repository/gro/sqas00.gro .
+
+modify the gro file at the N-ter by deleting the NH2 residue
+
+pdb2gmx -f sq6s00.gro -ter
+
+select CT2 for N-ter
