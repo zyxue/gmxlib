@@ -1,0 +1,1721 @@
+; MARTINI (martini21) Coarse Grained topology file for "Protein"
+; Created by py version 2.3 
+; Using the following options:  -f epz1_h.pdb -o lele.top -x lele.pdb -nt -ss CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCHHHHHHHHHHCCCCCHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCHHHHHHHHHHCCCCCHHHHHHHHHHHHHHCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+; Sequence:
+; GVPGVGVPGVGVPGVGVPGVGVPGVGVPGVGVPGVAAAAAKAAKYGVGTPAAAAAKAAAKAAQFGVPGVGVPGVGVPGVGVPGVGVPGVGVPGVGVPGVAAAAAKAAKYGVGTPAAAAAKAAAKAAQFGVPGVGVPGVGVPGVGVPGVGVPGVGVPGVGVPGV
+; Secondary Structure:
+; CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC1111HH2222CCCCC1111HHHHHH2222CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC1111HH2222CCCCC1111HHHHHH2222CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+
+[ moleculetype ]
+; Name         Exclusions
+epz1_h	       1
+
+[ atoms ]
+    1    P5     1   GLY    BB     1  0.0000 ; C
+    2    P5     2   VAL    BB     2  0.0000 ; C
+    3   AC2     2   VAL   SC1     3  0.0000 ; C
+    4    Na     3   PRO    BB     4  0.0000 ; C
+    5   AC2     3   PRO   SC1     5  0.0000 ; C
+    6    P5     4   GLY    BB     6  0.0000 ; C
+    7    P5     5   VAL    BB     7  0.0000 ; C
+    8   AC2     5   VAL   SC1     8  0.0000 ; C
+    9    P5     6   GLY    BB     9  0.0000 ; C
+   10    P5     7   VAL    BB    10  0.0000 ; C
+   11   AC2     7   VAL   SC1    11  0.0000 ; C
+   12    Na     8   PRO    BB    12  0.0000 ; C
+   13   AC2     8   PRO   SC1    13  0.0000 ; C
+   14    P5     9   GLY    BB    14  0.0000 ; C
+   15    P5    10   VAL    BB    15  0.0000 ; C
+   16   AC2    10   VAL   SC1    16  0.0000 ; C
+   17    P5    11   GLY    BB    17  0.0000 ; C
+   18    P5    12   VAL    BB    18  0.0000 ; C
+   19   AC2    12   VAL   SC1    19  0.0000 ; C
+   20    Na    13   PRO    BB    20  0.0000 ; C
+   21   AC2    13   PRO   SC1    21  0.0000 ; C
+   22    P5    14   GLY    BB    22  0.0000 ; C
+   23    P5    15   VAL    BB    23  0.0000 ; C
+   24   AC2    15   VAL   SC1    24  0.0000 ; C
+   25    P5    16   GLY    BB    25  0.0000 ; C
+   26    P5    17   VAL    BB    26  0.0000 ; C
+   27   AC2    17   VAL   SC1    27  0.0000 ; C
+   28    Na    18   PRO    BB    28  0.0000 ; C
+   29   AC2    18   PRO   SC1    29  0.0000 ; C
+   30    P5    19   GLY    BB    30  0.0000 ; C
+   31    P5    20   VAL    BB    31  0.0000 ; C
+   32   AC2    20   VAL   SC1    32  0.0000 ; C
+   33    P5    21   GLY    BB    33  0.0000 ; C
+   34    P5    22   VAL    BB    34  0.0000 ; C
+   35   AC2    22   VAL   SC1    35  0.0000 ; C
+   36    Na    23   PRO    BB    36  0.0000 ; C
+   37   AC2    23   PRO   SC1    37  0.0000 ; C
+   38    P5    24   GLY    BB    38  0.0000 ; C
+   39    P5    25   VAL    BB    39  0.0000 ; C
+   40   AC2    25   VAL   SC1    40  0.0000 ; C
+   41    P5    26   GLY    BB    41  0.0000 ; C
+   42    P5    27   VAL    BB    42  0.0000 ; C
+   43   AC2    27   VAL   SC1    43  0.0000 ; C
+   44    Na    28   PRO    BB    44  0.0000 ; C
+   45   AC2    28   PRO   SC1    45  0.0000 ; C
+   46    P5    29   GLY    BB    46  0.0000 ; C
+   47    P5    30   VAL    BB    47  0.0000 ; C
+   48   AC2    30   VAL   SC1    48  0.0000 ; C
+   49    P5    31   GLY    BB    49  0.0000 ; C
+   50    P5    32   VAL    BB    50  0.0000 ; C
+   51   AC2    32   VAL   SC1    51  0.0000 ; C
+   52    Na    33   PRO    BB    52  0.0000 ; C
+   53   AC2    33   PRO   SC1    53  0.0000 ; C
+   54    P5    34   GLY    BB    54  0.0000 ; C
+   55    P5    35   VAL    BB    55  0.0000 ; C
+   56   AC2    35   VAL   SC1    56  0.0000 ; C
+   57    N0    36   ALA    BB    57  0.0000 ; 1
+   58    N0    37   ALA    BB    58  0.0000 ; 1
+   59    N0    38   ALA    BB    59  0.0000 ; 1
+   60    N0    39   ALA    BB    60  0.0000 ; 1
+   61    C5    40   ALA    BB    61  0.0000 ; H
+   62    N0    41   LYS    BB    62  0.0000 ; H
+   63    C3    41   LYS   SC1    63  0.0000 ; H
+   64    Qd    41   LYS   SC2    64  1.0000 ; H
+   65    N0    42   ALA    BB    65  0.0000 ; 2
+   66    N0    43   ALA    BB    66  0.0000 ; 2
+   67    Na    44   LYS    BB    67  0.0000 ; 2
+   68    C3    44   LYS   SC1    68  0.0000 ; 2
+   69    Qd    44   LYS   SC2    69  1.0000 ; 2
+   70    Na    45   TYR    BB    70  0.0000 ; 2
+   71   SC4    45   TYR   SC1    71  0.0000 ; 2
+   72   SC4    45   TYR   SC2    72  0.0000 ; 2
+   73   SP1    45   TYR   SC3    73  0.0000 ; 2
+   74    P5    46   GLY    BB    74  0.0000 ; C
+   75    P5    47   VAL    BB    75  0.0000 ; C
+   76   AC2    47   VAL   SC1    76  0.0000 ; C
+   77    P5    48   GLY    BB    77  0.0000 ; C
+   78    P5    49   THR    BB    78  0.0000 ; C
+   79    P1    49   THR   SC1    79  0.0000 ; C
+   80    Na    50   PRO    BB    80  0.0000 ; C
+   81   AC2    50   PRO   SC1    81  0.0000 ; C
+   82    N0    51   ALA    BB    82  0.0000 ; 1
+   83    N0    52   ALA    BB    83  0.0000 ; 1
+   84    N0    53   ALA    BB    84  0.0000 ; 1
+   85    N0    54   ALA    BB    85  0.0000 ; 1
+   86    C5    55   ALA    BB    86  0.0000 ; H
+   87    N0    56   LYS    BB    87  0.0000 ; H
+   88    C3    56   LYS   SC1    88  0.0000 ; H
+   89    Qd    56   LYS   SC2    89  1.0000 ; H
+   90    C5    57   ALA    BB    90  0.0000 ; H
+   91    C5    58   ALA    BB    91  0.0000 ; H
+   92    C5    59   ALA    BB    92  0.0000 ; H
+   93    N0    60   LYS    BB    93  0.0000 ; H
+   94    C3    60   LYS   SC1    94  0.0000 ; H
+   95    Qd    60   LYS   SC2    95  1.0000 ; H
+   96    N0    61   ALA    BB    96  0.0000 ; 2
+   97    N0    62   ALA    BB    97  0.0000 ; 2
+   98    Na    63   GLN    BB    98  0.0000 ; 2
+   99    P4    63   GLN   SC1    99  0.0000 ; 2
+  100    Na    64   PHE    BB   100  0.0000 ; 2
+  101   SC4    64   PHE   SC1   101  0.0000 ; 2
+  102   SC4    64   PHE   SC2   102  0.0000 ; 2
+  103   SC4    64   PHE   SC3   103  0.0000 ; 2
+  104    P5    65   GLY    BB   104  0.0000 ; C
+  105    P5    66   VAL    BB   105  0.0000 ; C
+  106   AC2    66   VAL   SC1   106  0.0000 ; C
+  107    Na    67   PRO    BB   107  0.0000 ; C
+  108   AC2    67   PRO   SC1   108  0.0000 ; C
+  109    P5    68   GLY    BB   109  0.0000 ; C
+  110    P5    69   VAL    BB   110  0.0000 ; C
+  111   AC2    69   VAL   SC1   111  0.0000 ; C
+  112    P5    70   GLY    BB   112  0.0000 ; C
+  113    P5    71   VAL    BB   113  0.0000 ; C
+  114   AC2    71   VAL   SC1   114  0.0000 ; C
+  115    Na    72   PRO    BB   115  0.0000 ; C
+  116   AC2    72   PRO   SC1   116  0.0000 ; C
+  117    P5    73   GLY    BB   117  0.0000 ; C
+  118    P5    74   VAL    BB   118  0.0000 ; C
+  119   AC2    74   VAL   SC1   119  0.0000 ; C
+  120    P5    75   GLY    BB   120  0.0000 ; C
+  121    P5    76   VAL    BB   121  0.0000 ; C
+  122   AC2    76   VAL   SC1   122  0.0000 ; C
+  123    Na    77   PRO    BB   123  0.0000 ; C
+  124   AC2    77   PRO   SC1   124  0.0000 ; C
+  125    P5    78   GLY    BB   125  0.0000 ; C
+  126    P5    79   VAL    BB   126  0.0000 ; C
+  127   AC2    79   VAL   SC1   127  0.0000 ; C
+  128    P5    80   GLY    BB   128  0.0000 ; C
+  129    P5    81   VAL    BB   129  0.0000 ; C
+  130   AC2    81   VAL   SC1   130  0.0000 ; C
+  131    Na    82   PRO    BB   131  0.0000 ; C
+  132   AC2    82   PRO   SC1   132  0.0000 ; C
+  133    P5    83   GLY    BB   133  0.0000 ; C
+  134    P5    84   VAL    BB   134  0.0000 ; C
+  135   AC2    84   VAL   SC1   135  0.0000 ; C
+  136    P5    85   GLY    BB   136  0.0000 ; C
+  137    P5    86   VAL    BB   137  0.0000 ; C
+  138   AC2    86   VAL   SC1   138  0.0000 ; C
+  139    Na    87   PRO    BB   139  0.0000 ; C
+  140   AC2    87   PRO   SC1   140  0.0000 ; C
+  141    P5    88   GLY    BB   141  0.0000 ; C
+  142    P5    89   VAL    BB   142  0.0000 ; C
+  143   AC2    89   VAL   SC1   143  0.0000 ; C
+  144    P5    90   GLY    BB   144  0.0000 ; C
+  145    P5    91   VAL    BB   145  0.0000 ; C
+  146   AC2    91   VAL   SC1   146  0.0000 ; C
+  147    Na    92   PRO    BB   147  0.0000 ; C
+  148   AC2    92   PRO   SC1   148  0.0000 ; C
+  149    P5    93   GLY    BB   149  0.0000 ; C
+  150    P5    94   VAL    BB   150  0.0000 ; C
+  151   AC2    94   VAL   SC1   151  0.0000 ; C
+  152    P5    95   GLY    BB   152  0.0000 ; C
+  153    P5    96   VAL    BB   153  0.0000 ; C
+  154   AC2    96   VAL   SC1   154  0.0000 ; C
+  155    Na    97   PRO    BB   155  0.0000 ; C
+  156   AC2    97   PRO   SC1   156  0.0000 ; C
+  157    P5    98   GLY    BB   157  0.0000 ; C
+  158    P5    99   VAL    BB   158  0.0000 ; C
+  159   AC2    99   VAL   SC1   159  0.0000 ; C
+  160    N0   100   ALA    BB   160  0.0000 ; 1
+  161    N0   101   ALA    BB   161  0.0000 ; 1
+  162    N0   102   ALA    BB   162  0.0000 ; 1
+  163    N0   103   ALA    BB   163  0.0000 ; 1
+  164    C5   104   ALA    BB   164  0.0000 ; H
+  165    N0   105   LYS    BB   165  0.0000 ; H
+  166    C3   105   LYS   SC1   166  0.0000 ; H
+  167    Qd   105   LYS   SC2   167  1.0000 ; H
+  168    N0   106   ALA    BB   168  0.0000 ; 2
+  169    N0   107   ALA    BB   169  0.0000 ; 2
+  170    Na   108   LYS    BB   170  0.0000 ; 2
+  171    C3   108   LYS   SC1   171  0.0000 ; 2
+  172    Qd   108   LYS   SC2   172  1.0000 ; 2
+  173    Na   109   TYR    BB   173  0.0000 ; 2
+  174   SC4   109   TYR   SC1   174  0.0000 ; 2
+  175   SC4   109   TYR   SC2   175  0.0000 ; 2
+  176   SP1   109   TYR   SC3   176  0.0000 ; 2
+  177    P5   110   GLY    BB   177  0.0000 ; C
+  178    P5   111   VAL    BB   178  0.0000 ; C
+  179   AC2   111   VAL   SC1   179  0.0000 ; C
+  180    P5   112   GLY    BB   180  0.0000 ; C
+  181    P5   113   THR    BB   181  0.0000 ; C
+  182    P1   113   THR   SC1   182  0.0000 ; C
+  183    Na   114   PRO    BB   183  0.0000 ; C
+  184   AC2   114   PRO   SC1   184  0.0000 ; C
+  185    N0   115   ALA    BB   185  0.0000 ; 1
+  186    N0   116   ALA    BB   186  0.0000 ; 1
+  187    N0   117   ALA    BB   187  0.0000 ; 1
+  188    N0   118   ALA    BB   188  0.0000 ; 1
+  189    C5   119   ALA    BB   189  0.0000 ; H
+  190    N0   120   LYS    BB   190  0.0000 ; H
+  191    C3   120   LYS   SC1   191  0.0000 ; H
+  192    Qd   120   LYS   SC2   192  1.0000 ; H
+  193    C5   121   ALA    BB   193  0.0000 ; H
+  194    C5   122   ALA    BB   194  0.0000 ; H
+  195    C5   123   ALA    BB   195  0.0000 ; H
+  196    N0   124   LYS    BB   196  0.0000 ; H
+  197    C3   124   LYS   SC1   197  0.0000 ; H
+  198    Qd   124   LYS   SC2   198  1.0000 ; H
+  199    N0   125   ALA    BB   199  0.0000 ; 2
+  200    N0   126   ALA    BB   200  0.0000 ; 2
+  201    Na   127   GLN    BB   201  0.0000 ; 2
+  202    P4   127   GLN   SC1   202  0.0000 ; 2
+  203    Na   128   PHE    BB   203  0.0000 ; 2
+  204   SC4   128   PHE   SC1   204  0.0000 ; 2
+  205   SC4   128   PHE   SC2   205  0.0000 ; 2
+  206   SC4   128   PHE   SC3   206  0.0000 ; 2
+  207    P5   129   GLY    BB   207  0.0000 ; C
+  208    P5   130   VAL    BB   208  0.0000 ; C
+  209   AC2   130   VAL   SC1   209  0.0000 ; C
+  210    Na   131   PRO    BB   210  0.0000 ; C
+  211   AC2   131   PRO   SC1   211  0.0000 ; C
+  212    P5   132   GLY    BB   212  0.0000 ; C
+  213    P5   133   VAL    BB   213  0.0000 ; C
+  214   AC2   133   VAL   SC1   214  0.0000 ; C
+  215    P5   134   GLY    BB   215  0.0000 ; C
+  216    P5   135   VAL    BB   216  0.0000 ; C
+  217   AC2   135   VAL   SC1   217  0.0000 ; C
+  218    Na   136   PRO    BB   218  0.0000 ; C
+  219   AC2   136   PRO   SC1   219  0.0000 ; C
+  220    P5   137   GLY    BB   220  0.0000 ; C
+  221    P5   138   VAL    BB   221  0.0000 ; C
+  222   AC2   138   VAL   SC1   222  0.0000 ; C
+  223    P5   139   GLY    BB   223  0.0000 ; C
+  224    P5   140   VAL    BB   224  0.0000 ; C
+  225   AC2   140   VAL   SC1   225  0.0000 ; C
+  226    Na   141   PRO    BB   226  0.0000 ; C
+  227   AC2   141   PRO   SC1   227  0.0000 ; C
+  228    P5   142   GLY    BB   228  0.0000 ; C
+  229    P5   143   VAL    BB   229  0.0000 ; C
+  230   AC2   143   VAL   SC1   230  0.0000 ; C
+  231    P5   144   GLY    BB   231  0.0000 ; C
+  232    P5   145   VAL    BB   232  0.0000 ; C
+  233   AC2   145   VAL   SC1   233  0.0000 ; C
+  234    Na   146   PRO    BB   234  0.0000 ; C
+  235   AC2   146   PRO   SC1   235  0.0000 ; C
+  236    P5   147   GLY    BB   236  0.0000 ; C
+  237    P5   148   VAL    BB   237  0.0000 ; C
+  238   AC2   148   VAL   SC1   238  0.0000 ; C
+  239    P5   149   GLY    BB   239  0.0000 ; C
+  240    P5   150   VAL    BB   240  0.0000 ; C
+  241   AC2   150   VAL   SC1   241  0.0000 ; C
+  242    Na   151   PRO    BB   242  0.0000 ; C
+  243   AC2   151   PRO   SC1   243  0.0000 ; C
+  244    P5   152   GLY    BB   244  0.0000 ; C
+  245    P5   153   VAL    BB   245  0.0000 ; C
+  246   AC2   153   VAL   SC1   246  0.0000 ; C
+  247    P5   154   GLY    BB   247  0.0000 ; C
+  248    P5   155   VAL    BB   248  0.0000 ; C
+  249   AC2   155   VAL   SC1   249  0.0000 ; C
+  250    Na   156   PRO    BB   250  0.0000 ; C
+  251   AC2   156   PRO   SC1   251  0.0000 ; C
+  252    P5   157   GLY    BB   252  0.0000 ; C
+  253    P5   158   VAL    BB   253  0.0000 ; C
+  254   AC2   158   VAL   SC1   254  0.0000 ; C
+  255    P5   159   GLY    BB   255  0.0000 ; C
+  256    P5   160   VAL    BB   256  0.0000 ; C
+  257   AC2   160   VAL   SC1   257  0.0000 ; C
+  258    Na   161   PRO    BB   258  0.0000 ; C
+  259   AC2   161   PRO   SC1   259  0.0000 ; C
+  260    P5   162   GLY    BB   260  0.0000 ; C
+  261    P5   163   VAL    BB   261  0.0000 ; C
+  262   AC2   163   VAL   SC1   262  0.0000 ; C
+
+[ bonds ]
+; Backbone bonds
+    1     2      1   0.35000   400 ; GLY(C)-VAL(C)
+    2     4      1   0.35000   400 ; VAL(C)-PRO(C)
+    4     6      1   0.35000   400 ; PRO(C)-GLY(C)
+    6     7      1   0.35000   400 ; GLY(C)-VAL(C)
+    7     9      1   0.35000   400 ; VAL(C)-GLY(C)
+    9    10      1   0.35000   400 ; GLY(C)-VAL(C)
+   10    12      1   0.35000   400 ; VAL(C)-PRO(C)
+   12    14      1   0.35000   400 ; PRO(C)-GLY(C)
+   14    15      1   0.35000   400 ; GLY(C)-VAL(C)
+   15    17      1   0.35000   400 ; VAL(C)-GLY(C)
+   17    18      1   0.35000   400 ; GLY(C)-VAL(C)
+   18    20      1   0.35000   400 ; VAL(C)-PRO(C)
+   20    22      1   0.35000   400 ; PRO(C)-GLY(C)
+   22    23      1   0.35000   400 ; GLY(C)-VAL(C)
+   23    25      1   0.35000   400 ; VAL(C)-GLY(C)
+   25    26      1   0.35000   400 ; GLY(C)-VAL(C)
+   26    28      1   0.35000   400 ; VAL(C)-PRO(C)
+   28    30      1   0.35000   400 ; PRO(C)-GLY(C)
+   30    31      1   0.35000   400 ; GLY(C)-VAL(C)
+   31    33      1   0.35000   400 ; VAL(C)-GLY(C)
+   33    34      1   0.35000   400 ; GLY(C)-VAL(C)
+   34    36      1   0.35000   400 ; VAL(C)-PRO(C)
+   36    38      1   0.35000   400 ; PRO(C)-GLY(C)
+   38    39      1   0.35000   400 ; GLY(C)-VAL(C)
+   39    41      1   0.35000   400 ; VAL(C)-GLY(C)
+   41    42      1   0.35000   400 ; GLY(C)-VAL(C)
+   42    44      1   0.35000   400 ; VAL(C)-PRO(C)
+   44    46      1   0.35000   400 ; PRO(C)-GLY(C)
+   46    47      1   0.35000   400 ; GLY(C)-VAL(C)
+   47    49      1   0.35000   400 ; VAL(C)-GLY(C)
+   49    50      1   0.35000   400 ; GLY(C)-VAL(C)
+   50    52      1   0.35000   400 ; VAL(C)-PRO(C)
+   52    54      1   0.35000   400 ; PRO(C)-GLY(C)
+   54    55      1   0.35000   400 ; GLY(C)-VAL(C)
+   55    57      1   0.35000   400 ; VAL(C)-ALA(1)
+   57    58      1   0.35000  1250 ; ALA(1)-ALA(1)
+   58    59      1   0.35000  1250 ; ALA(1)-ALA(1)
+   59    60      1   0.35000  1250 ; ALA(1)-ALA(1)
+   60    61      1   0.35000  1250 ; ALA(1)-ALA(H)
+   61    62      1   0.35000  1250 ; ALA(H)-LYS(H)
+   62    65      1   0.35000  1250 ; LYS(H)-ALA(2)
+   65    66      1   0.35000  1250 ; ALA(2)-ALA(2)
+   66    67      1   0.35000  1250 ; ALA(2)-LYS(2)
+   67    70      1   0.35000  1250 ; LYS(2)-TYR(2)
+   70    74      1   0.35000   400 ; TYR(2)-GLY(C)
+   74    75      1   0.35000   400 ; GLY(C)-VAL(C)
+   75    77      1   0.35000   400 ; VAL(C)-GLY(C)
+   77    78      1   0.35000   400 ; GLY(C)-THR(C)
+   78    80      1   0.35000   400 ; THR(C)-PRO(C)
+   80    82      1   0.35000   400 ; PRO(C)-ALA(1)
+   82    83      1   0.35000  1250 ; ALA(1)-ALA(1)
+   83    84      1   0.35000  1250 ; ALA(1)-ALA(1)
+   84    85      1   0.35000  1250 ; ALA(1)-ALA(1)
+   85    86      1   0.35000  1250 ; ALA(1)-ALA(H)
+   86    87      1   0.35000  1250 ; ALA(H)-LYS(H)
+   87    90      1   0.35000  1250 ; LYS(H)-ALA(H)
+   90    91      1   0.35000  1250 ; ALA(H)-ALA(H)
+   91    92      1   0.35000  1250 ; ALA(H)-ALA(H)
+   92    93      1   0.35000  1250 ; ALA(H)-LYS(H)
+   93    96      1   0.35000  1250 ; LYS(H)-ALA(2)
+   96    97      1   0.35000  1250 ; ALA(2)-ALA(2)
+   97    98      1   0.35000  1250 ; ALA(2)-GLN(2)
+   98   100      1   0.35000  1250 ; GLN(2)-PHE(2)
+  100   104      1   0.35000   400 ; PHE(2)-GLY(C)
+  104   105      1   0.35000   400 ; GLY(C)-VAL(C)
+  105   107      1   0.35000   400 ; VAL(C)-PRO(C)
+  107   109      1   0.35000   400 ; PRO(C)-GLY(C)
+  109   110      1   0.35000   400 ; GLY(C)-VAL(C)
+  110   112      1   0.35000   400 ; VAL(C)-GLY(C)
+  112   113      1   0.35000   400 ; GLY(C)-VAL(C)
+  113   115      1   0.35000   400 ; VAL(C)-PRO(C)
+  115   117      1   0.35000   400 ; PRO(C)-GLY(C)
+  117   118      1   0.35000   400 ; GLY(C)-VAL(C)
+  118   120      1   0.35000   400 ; VAL(C)-GLY(C)
+  120   121      1   0.35000   400 ; GLY(C)-VAL(C)
+  121   123      1   0.35000   400 ; VAL(C)-PRO(C)
+  123   125      1   0.35000   400 ; PRO(C)-GLY(C)
+  125   126      1   0.35000   400 ; GLY(C)-VAL(C)
+  126   128      1   0.35000   400 ; VAL(C)-GLY(C)
+  128   129      1   0.35000   400 ; GLY(C)-VAL(C)
+  129   131      1   0.35000   400 ; VAL(C)-PRO(C)
+  131   133      1   0.35000   400 ; PRO(C)-GLY(C)
+  133   134      1   0.35000   400 ; GLY(C)-VAL(C)
+  134   136      1   0.35000   400 ; VAL(C)-GLY(C)
+  136   137      1   0.35000   400 ; GLY(C)-VAL(C)
+  137   139      1   0.35000   400 ; VAL(C)-PRO(C)
+  139   141      1   0.35000   400 ; PRO(C)-GLY(C)
+  141   142      1   0.35000   400 ; GLY(C)-VAL(C)
+  142   144      1   0.35000   400 ; VAL(C)-GLY(C)
+  144   145      1   0.35000   400 ; GLY(C)-VAL(C)
+  145   147      1   0.35000   400 ; VAL(C)-PRO(C)
+  147   149      1   0.35000   400 ; PRO(C)-GLY(C)
+  149   150      1   0.35000   400 ; GLY(C)-VAL(C)
+  150   152      1   0.35000   400 ; VAL(C)-GLY(C)
+  152   153      1   0.35000   400 ; GLY(C)-VAL(C)
+  153   155      1   0.35000   400 ; VAL(C)-PRO(C)
+  155   157      1   0.35000   400 ; PRO(C)-GLY(C)
+  157   158      1   0.35000   400 ; GLY(C)-VAL(C)
+  158   160      1   0.35000   400 ; VAL(C)-ALA(1)
+  160   161      1   0.35000  1250 ; ALA(1)-ALA(1)
+  161   162      1   0.35000  1250 ; ALA(1)-ALA(1)
+  162   163      1   0.35000  1250 ; ALA(1)-ALA(1)
+  163   164      1   0.35000  1250 ; ALA(1)-ALA(H)
+  164   165      1   0.35000  1250 ; ALA(H)-LYS(H)
+  165   168      1   0.35000  1250 ; LYS(H)-ALA(2)
+  168   169      1   0.35000  1250 ; ALA(2)-ALA(2)
+  169   170      1   0.35000  1250 ; ALA(2)-LYS(2)
+  170   173      1   0.35000  1250 ; LYS(2)-TYR(2)
+  173   177      1   0.35000   400 ; TYR(2)-GLY(C)
+  177   178      1   0.35000   400 ; GLY(C)-VAL(C)
+  178   180      1   0.35000   400 ; VAL(C)-GLY(C)
+  180   181      1   0.35000   400 ; GLY(C)-THR(C)
+  181   183      1   0.35000   400 ; THR(C)-PRO(C)
+  183   185      1   0.35000   400 ; PRO(C)-ALA(1)
+  185   186      1   0.35000  1250 ; ALA(1)-ALA(1)
+  186   187      1   0.35000  1250 ; ALA(1)-ALA(1)
+  187   188      1   0.35000  1250 ; ALA(1)-ALA(1)
+  188   189      1   0.35000  1250 ; ALA(1)-ALA(H)
+  189   190      1   0.35000  1250 ; ALA(H)-LYS(H)
+  190   193      1   0.35000  1250 ; LYS(H)-ALA(H)
+  193   194      1   0.35000  1250 ; ALA(H)-ALA(H)
+  194   195      1   0.35000  1250 ; ALA(H)-ALA(H)
+  195   196      1   0.35000  1250 ; ALA(H)-LYS(H)
+  196   199      1   0.35000  1250 ; LYS(H)-ALA(2)
+  199   200      1   0.35000  1250 ; ALA(2)-ALA(2)
+  200   201      1   0.35000  1250 ; ALA(2)-GLN(2)
+  201   203      1   0.35000  1250 ; GLN(2)-PHE(2)
+  203   207      1   0.35000   400 ; PHE(2)-GLY(C)
+  207   208      1   0.35000   400 ; GLY(C)-VAL(C)
+  208   210      1   0.35000   400 ; VAL(C)-PRO(C)
+  210   212      1   0.35000   400 ; PRO(C)-GLY(C)
+  212   213      1   0.35000   400 ; GLY(C)-VAL(C)
+  213   215      1   0.35000   400 ; VAL(C)-GLY(C)
+  215   216      1   0.35000   400 ; GLY(C)-VAL(C)
+  216   218      1   0.35000   400 ; VAL(C)-PRO(C)
+  218   220      1   0.35000   400 ; PRO(C)-GLY(C)
+  220   221      1   0.35000   400 ; GLY(C)-VAL(C)
+  221   223      1   0.35000   400 ; VAL(C)-GLY(C)
+  223   224      1   0.35000   400 ; GLY(C)-VAL(C)
+  224   226      1   0.35000   400 ; VAL(C)-PRO(C)
+  226   228      1   0.35000   400 ; PRO(C)-GLY(C)
+  228   229      1   0.35000   400 ; GLY(C)-VAL(C)
+  229   231      1   0.35000   400 ; VAL(C)-GLY(C)
+  231   232      1   0.35000   400 ; GLY(C)-VAL(C)
+  232   234      1   0.35000   400 ; VAL(C)-PRO(C)
+  234   236      1   0.35000   400 ; PRO(C)-GLY(C)
+  236   237      1   0.35000   400 ; GLY(C)-VAL(C)
+  237   239      1   0.35000   400 ; VAL(C)-GLY(C)
+  239   240      1   0.35000   400 ; GLY(C)-VAL(C)
+  240   242      1   0.35000   400 ; VAL(C)-PRO(C)
+  242   244      1   0.35000   400 ; PRO(C)-GLY(C)
+  244   245      1   0.35000   400 ; GLY(C)-VAL(C)
+  245   247      1   0.35000   400 ; VAL(C)-GLY(C)
+  247   248      1   0.35000   400 ; GLY(C)-VAL(C)
+  248   250      1   0.35000   400 ; VAL(C)-PRO(C)
+  250   252      1   0.35000   400 ; PRO(C)-GLY(C)
+  252   253      1   0.35000   400 ; GLY(C)-VAL(C)
+  253   255      1   0.35000   400 ; VAL(C)-GLY(C)
+  255   256      1   0.35000   400 ; GLY(C)-VAL(C)
+  256   258      1   0.35000   400 ; VAL(C)-PRO(C)
+  258   260      1   0.35000   400 ; PRO(C)-GLY(C)
+  260   261      1   0.35000   400 ; GLY(C)-VAL(C)
+; Sidechain bonds
+    4     5      1   0.30000  7500 ; PRO
+   12    13      1   0.30000  7500 ; PRO
+   20    21      1   0.30000  7500 ; PRO
+   28    29      1   0.30000  7500 ; PRO
+   36    37      1   0.30000  7500 ; PRO
+   44    45      1   0.30000  7500 ; PRO
+   52    53      1   0.30000  7500 ; PRO
+   62    63      1   0.33000  5000 ; LYS
+   63    64      1   0.28000  5000 ; LYS
+   67    68      1   0.33000  5000 ; LYS
+   68    69      1   0.28000  5000 ; LYS
+   70    71      1   0.32000  5000 ; TYR
+   80    81      1   0.30000  7500 ; PRO
+   87    88      1   0.33000  5000 ; LYS
+   88    89      1   0.28000  5000 ; LYS
+   93    94      1   0.33000  5000 ; LYS
+   94    95      1   0.28000  5000 ; LYS
+   98    99      1   0.40000  5000 ; GLN
+  100   101      1   0.31000  7500 ; PHE
+  107   108      1   0.30000  7500 ; PRO
+  115   116      1   0.30000  7500 ; PRO
+  123   124      1   0.30000  7500 ; PRO
+  131   132      1   0.30000  7500 ; PRO
+  139   140      1   0.30000  7500 ; PRO
+  147   148      1   0.30000  7500 ; PRO
+  155   156      1   0.30000  7500 ; PRO
+  165   166      1   0.33000  5000 ; LYS
+  166   167      1   0.28000  5000 ; LYS
+  170   171      1   0.33000  5000 ; LYS
+  171   172      1   0.28000  5000 ; LYS
+  173   174      1   0.32000  5000 ; TYR
+  183   184      1   0.30000  7500 ; PRO
+  190   191      1   0.33000  5000 ; LYS
+  191   192      1   0.28000  5000 ; LYS
+  196   197      1   0.33000  5000 ; LYS
+  197   198      1   0.28000  5000 ; LYS
+  201   202      1   0.40000  5000 ; GLN
+  203   204      1   0.31000  7500 ; PHE
+  210   211      1   0.30000  7500 ; PRO
+  218   219      1   0.30000  7500 ; PRO
+  226   227      1   0.30000  7500 ; PRO
+  234   235      1   0.30000  7500 ; PRO
+  242   243      1   0.30000  7500 ; PRO
+  250   251      1   0.30000  7500 ; PRO
+  258   259      1   0.30000  7500 ; PRO
+
+[ constraints ]
+    2     3      1   0.26500 ; VAL
+    7     8      1   0.26500 ; VAL
+   10    11      1   0.26500 ; VAL
+   15    16      1   0.26500 ; VAL
+   18    19      1   0.26500 ; VAL
+   23    24      1   0.26500 ; VAL
+   26    27      1   0.26500 ; VAL
+   31    32      1   0.26500 ; VAL
+   34    35      1   0.26500 ; VAL
+   39    40      1   0.26500 ; VAL
+   42    43      1   0.26500 ; VAL
+   47    48      1   0.26500 ; VAL
+   50    51      1   0.26500 ; VAL
+   55    56      1   0.26500 ; VAL
+   71    72      1   0.27000 ; TYR
+   71    73      1   0.27000 ; TYR
+   72    73      1   0.27000 ; TYR
+   75    76      1   0.26500 ; VAL
+   78    79      1   0.26000 ; THR
+  101   102      1   0.27000 ; PHE
+  101   103      1   0.27000 ; PHE
+  102   103      1   0.27000 ; PHE
+  105   106      1   0.26500 ; VAL
+  110   111      1   0.26500 ; VAL
+  113   114      1   0.26500 ; VAL
+  118   119      1   0.26500 ; VAL
+  121   122      1   0.26500 ; VAL
+  126   127      1   0.26500 ; VAL
+  129   130      1   0.26500 ; VAL
+  134   135      1   0.26500 ; VAL
+  137   138      1   0.26500 ; VAL
+  142   143      1   0.26500 ; VAL
+  145   146      1   0.26500 ; VAL
+  150   151      1   0.26500 ; VAL
+  153   154      1   0.26500 ; VAL
+  158   159      1   0.26500 ; VAL
+  174   175      1   0.27000 ; TYR
+  174   176      1   0.27000 ; TYR
+  175   176      1   0.27000 ; TYR
+  178   179      1   0.26500 ; VAL
+  181   182      1   0.26000 ; THR
+  204   205      1   0.27000 ; PHE
+  204   206      1   0.27000 ; PHE
+  205   206      1   0.27000 ; PHE
+  208   209      1   0.26500 ; VAL
+  213   214      1   0.26500 ; VAL
+  216   217      1   0.26500 ; VAL
+  221   222      1   0.26500 ; VAL
+  224   225      1   0.26500 ; VAL
+  229   230      1   0.26500 ; VAL
+  232   233      1   0.26500 ; VAL
+  237   238      1   0.26500 ; VAL
+  240   241      1   0.26500 ; VAL
+  245   246      1   0.26500 ; VAL
+  248   249      1   0.26500 ; VAL
+  253   254      1   0.26500 ; VAL
+  256   257      1   0.26500 ; VAL
+  261   262      1   0.26500 ; VAL
+
+[ angles ]
+; Backbone angles
+    1     2     4      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+    2     4     6      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+    4     6     7      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+    6     7     9      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+    7     9    10      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+    9    10    12      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+   10    12    14      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+   12    14    15      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+   14    15    17      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+   15    17    18      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+   17    18    20      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+   18    20    22      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+   20    22    23      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+   22    23    25      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+   23    25    26      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+   25    26    28      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+   26    28    30      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+   28    30    31      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+   30    31    33      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+   31    33    34      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+   33    34    36      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+   34    36    38      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+   36    38    39      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+   38    39    41      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+   39    41    42      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+   41    42    44      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+   42    44    46      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+   44    46    47      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+   46    47    49      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+   47    49    50      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+   49    50    52      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+   50    52    54      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+   52    54    55      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+   54    55    57      2    127    25 ; GLY(C)-VAL(C)-ALA(1)
+   55    57    58      2    127    25 ; VAL(C)-ALA(1)-ALA(1)
+   57    58    59      2     96   700 ; ALA(1)-ALA(1)-ALA(1)
+   58    59    60      2     96   700 ; ALA(1)-ALA(1)-ALA(1)
+   59    60    61      2     96   700 ; ALA(1)-ALA(1)-ALA(H)
+   60    61    62      2     96   700 ; ALA(1)-ALA(H)-LYS(H)
+   61    62    65      2     96   700 ; ALA(H)-LYS(H)-ALA(2)
+   62    65    66      2     96   700 ; LYS(H)-ALA(2)-ALA(2)
+   65    66    67      2     96   700 ; ALA(2)-ALA(2)-LYS(2)
+   66    67    70      2     96   700 ; ALA(2)-LYS(2)-TYR(2)
+   67    70    74      2    127    25 ; LYS(2)-TYR(2)-GLY(C)
+   70    74    75      2    127    25 ; TYR(2)-GLY(C)-VAL(C)
+   74    75    77      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+   75    77    78      2    127    25 ; VAL(C)-GLY(C)-THR(C)
+   77    78    80      2    127    25 ; GLY(C)-THR(C)-PRO(C)
+   78    80    82      2    127    25 ; THR(C)-PRO(C)-ALA(1)
+   80    82    83      2    127    25 ; PRO(C)-ALA(1)-ALA(1)
+   82    83    84      2     96   700 ; ALA(1)-ALA(1)-ALA(1)
+   83    84    85      2     96   700 ; ALA(1)-ALA(1)-ALA(1)
+   84    85    86      2     96   700 ; ALA(1)-ALA(1)-ALA(H)
+   85    86    87      2     96   700 ; ALA(1)-ALA(H)-LYS(H)
+   86    87    90      2     96   700 ; ALA(H)-LYS(H)-ALA(H)
+   87    90    91      2     96   700 ; LYS(H)-ALA(H)-ALA(H)
+   90    91    92      2     96   700 ; ALA(H)-ALA(H)-ALA(H)
+   91    92    93      2     96   700 ; ALA(H)-ALA(H)-LYS(H)
+   92    93    96      2     96   700 ; ALA(H)-LYS(H)-ALA(2)
+   93    96    97      2     96   700 ; LYS(H)-ALA(2)-ALA(2)
+   96    97    98      2     96   700 ; ALA(2)-ALA(2)-GLN(2)
+   97    98   100      2     96   700 ; ALA(2)-GLN(2)-PHE(2)
+   98   100   104      2    127    25 ; GLN(2)-PHE(2)-GLY(C)
+  100   104   105      2    127    25 ; PHE(2)-GLY(C)-VAL(C)
+  104   105   107      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+  105   107   109      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+  107   109   110      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+  109   110   112      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+  110   112   113      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+  112   113   115      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+  113   115   117      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+  115   117   118      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+  117   118   120      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+  118   120   121      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+  120   121   123      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+  121   123   125      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+  123   125   126      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+  125   126   128      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+  126   128   129      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+  128   129   131      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+  129   131   133      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+  131   133   134      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+  133   134   136      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+  134   136   137      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+  136   137   139      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+  137   139   141      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+  139   141   142      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+  141   142   144      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+  142   144   145      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+  144   145   147      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+  145   147   149      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+  147   149   150      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+  149   150   152      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+  150   152   153      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+  152   153   155      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+  153   155   157      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+  155   157   158      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+  157   158   160      2    127    25 ; GLY(C)-VAL(C)-ALA(1)
+  158   160   161      2    127    25 ; VAL(C)-ALA(1)-ALA(1)
+  160   161   162      2     96   700 ; ALA(1)-ALA(1)-ALA(1)
+  161   162   163      2     96   700 ; ALA(1)-ALA(1)-ALA(1)
+  162   163   164      2     96   700 ; ALA(1)-ALA(1)-ALA(H)
+  163   164   165      2     96   700 ; ALA(1)-ALA(H)-LYS(H)
+  164   165   168      2     96   700 ; ALA(H)-LYS(H)-ALA(2)
+  165   168   169      2     96   700 ; LYS(H)-ALA(2)-ALA(2)
+  168   169   170      2     96   700 ; ALA(2)-ALA(2)-LYS(2)
+  169   170   173      2     96   700 ; ALA(2)-LYS(2)-TYR(2)
+  170   173   177      2    127    25 ; LYS(2)-TYR(2)-GLY(C)
+  173   177   178      2    127    25 ; TYR(2)-GLY(C)-VAL(C)
+  177   178   180      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+  178   180   181      2    127    25 ; VAL(C)-GLY(C)-THR(C)
+  180   181   183      2    127    25 ; GLY(C)-THR(C)-PRO(C)
+  181   183   185      2    127    25 ; THR(C)-PRO(C)-ALA(1)
+  183   185   186      2    127    25 ; PRO(C)-ALA(1)-ALA(1)
+  185   186   187      2     96   700 ; ALA(1)-ALA(1)-ALA(1)
+  186   187   188      2     96   700 ; ALA(1)-ALA(1)-ALA(1)
+  187   188   189      2     96   700 ; ALA(1)-ALA(1)-ALA(H)
+  188   189   190      2     96   700 ; ALA(1)-ALA(H)-LYS(H)
+  189   190   193      2     96   700 ; ALA(H)-LYS(H)-ALA(H)
+  190   193   194      2     96   700 ; LYS(H)-ALA(H)-ALA(H)
+  193   194   195      2     96   700 ; ALA(H)-ALA(H)-ALA(H)
+  194   195   196      2     96   700 ; ALA(H)-ALA(H)-LYS(H)
+  195   196   199      2     96   700 ; ALA(H)-LYS(H)-ALA(2)
+  196   199   200      2     96   700 ; LYS(H)-ALA(2)-ALA(2)
+  199   200   201      2     96   700 ; ALA(2)-ALA(2)-GLN(2)
+  200   201   203      2     96   700 ; ALA(2)-GLN(2)-PHE(2)
+  201   203   207      2    127    25 ; GLN(2)-PHE(2)-GLY(C)
+  203   207   208      2    127    25 ; PHE(2)-GLY(C)-VAL(C)
+  207   208   210      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+  208   210   212      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+  210   212   213      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+  212   213   215      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+  213   215   216      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+  215   216   218      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+  216   218   220      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+  218   220   221      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+  220   221   223      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+  221   223   224      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+  223   224   226      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+  224   226   228      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+  226   228   229      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+  228   229   231      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+  229   231   232      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+  231   232   234      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+  232   234   236      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+  234   236   237      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+  236   237   239      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+  237   239   240      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+  239   240   242      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+  240   242   244      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+  242   244   245      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+  244   245   247      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+  245   247   248      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+  247   248   250      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+  248   250   252      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+  250   252   253      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+  252   253   255      2    127    25 ; GLY(C)-VAL(C)-GLY(C)
+  253   255   256      2    127    25 ; VAL(C)-GLY(C)-VAL(C)
+  255   256   258      2    127    25 ; GLY(C)-VAL(C)-PRO(C)
+  256   258   260      2    127    25 ; VAL(C)-PRO(C)-GLY(C)
+  258   260   261      2    127    25 ; PRO(C)-GLY(C)-VAL(C)
+; Backbone-sidechain angles
+    1     2     3      2    100    25 ; GLY(C)-VAL(C) SBB
+    2     4     5      2    100    25 ; VAL(C)-PRO(C) SBB
+    6     7     8      2    100    25 ; GLY(C)-VAL(C) SBB
+    9    10    11      2    100    25 ; GLY(C)-VAL(C) SBB
+   10    12    13      2    100    25 ; VAL(C)-PRO(C) SBB
+   14    15    16      2    100    25 ; GLY(C)-VAL(C) SBB
+   17    18    19      2    100    25 ; GLY(C)-VAL(C) SBB
+   18    20    21      2    100    25 ; VAL(C)-PRO(C) SBB
+   22    23    24      2    100    25 ; GLY(C)-VAL(C) SBB
+   25    26    27      2    100    25 ; GLY(C)-VAL(C) SBB
+   26    28    29      2    100    25 ; VAL(C)-PRO(C) SBB
+   30    31    32      2    100    25 ; GLY(C)-VAL(C) SBB
+   33    34    35      2    100    25 ; GLY(C)-VAL(C) SBB
+   34    36    37      2    100    25 ; VAL(C)-PRO(C) SBB
+   38    39    40      2    100    25 ; GLY(C)-VAL(C) SBB
+   41    42    43      2    100    25 ; GLY(C)-VAL(C) SBB
+   42    44    45      2    100    25 ; VAL(C)-PRO(C) SBB
+   46    47    48      2    100    25 ; GLY(C)-VAL(C) SBB
+   49    50    51      2    100    25 ; GLY(C)-VAL(C) SBB
+   50    52    53      2    100    25 ; VAL(C)-PRO(C) SBB
+   54    55    56      2    100    25 ; GLY(C)-VAL(C) SBB
+   61    62    63      2    100    25 ; ALA(H)-LYS(H) SBB
+   66    67    68      2    100    25 ; ALA(2)-LYS(2) SBB
+   67    70    71      2    100    25 ; LYS(2)-TYR(2) SBB
+   74    75    76      2    100    25 ; GLY(C)-VAL(C) SBB
+   77    78    79      2    100    25 ; GLY(C)-THR(C) SBB
+   78    80    81      2    100    25 ; THR(C)-PRO(C) SBB
+   86    87    88      2    100    25 ; ALA(H)-LYS(H) SBB
+   92    93    94      2    100    25 ; ALA(H)-LYS(H) SBB
+   97    98    99      2    100    25 ; ALA(2)-GLN(2) SBB
+   98   100   101      2    100    25 ; GLN(2)-PHE(2) SBB
+  104   105   106      2    100    25 ; GLY(C)-VAL(C) SBB
+  105   107   108      2    100    25 ; VAL(C)-PRO(C) SBB
+  109   110   111      2    100    25 ; GLY(C)-VAL(C) SBB
+  112   113   114      2    100    25 ; GLY(C)-VAL(C) SBB
+  113   115   116      2    100    25 ; VAL(C)-PRO(C) SBB
+  117   118   119      2    100    25 ; GLY(C)-VAL(C) SBB
+  120   121   122      2    100    25 ; GLY(C)-VAL(C) SBB
+  121   123   124      2    100    25 ; VAL(C)-PRO(C) SBB
+  125   126   127      2    100    25 ; GLY(C)-VAL(C) SBB
+  128   129   130      2    100    25 ; GLY(C)-VAL(C) SBB
+  129   131   132      2    100    25 ; VAL(C)-PRO(C) SBB
+  133   134   135      2    100    25 ; GLY(C)-VAL(C) SBB
+  136   137   138      2    100    25 ; GLY(C)-VAL(C) SBB
+  137   139   140      2    100    25 ; VAL(C)-PRO(C) SBB
+  141   142   143      2    100    25 ; GLY(C)-VAL(C) SBB
+  144   145   146      2    100    25 ; GLY(C)-VAL(C) SBB
+  145   147   148      2    100    25 ; VAL(C)-PRO(C) SBB
+  149   150   151      2    100    25 ; GLY(C)-VAL(C) SBB
+  152   153   154      2    100    25 ; GLY(C)-VAL(C) SBB
+  153   155   156      2    100    25 ; VAL(C)-PRO(C) SBB
+  157   158   159      2    100    25 ; GLY(C)-VAL(C) SBB
+  164   165   166      2    100    25 ; ALA(H)-LYS(H) SBB
+  169   170   171      2    100    25 ; ALA(2)-LYS(2) SBB
+  170   173   174      2    100    25 ; LYS(2)-TYR(2) SBB
+  177   178   179      2    100    25 ; GLY(C)-VAL(C) SBB
+  180   181   182      2    100    25 ; GLY(C)-THR(C) SBB
+  181   183   184      2    100    25 ; THR(C)-PRO(C) SBB
+  189   190   191      2    100    25 ; ALA(H)-LYS(H) SBB
+  195   196   197      2    100    25 ; ALA(H)-LYS(H) SBB
+  200   201   202      2    100    25 ; ALA(2)-GLN(2) SBB
+  201   203   204      2    100    25 ; GLN(2)-PHE(2) SBB
+  207   208   209      2    100    25 ; GLY(C)-VAL(C) SBB
+  208   210   211      2    100    25 ; VAL(C)-PRO(C) SBB
+  212   213   214      2    100    25 ; GLY(C)-VAL(C) SBB
+  215   216   217      2    100    25 ; GLY(C)-VAL(C) SBB
+  216   218   219      2    100    25 ; VAL(C)-PRO(C) SBB
+  220   221   222      2    100    25 ; GLY(C)-VAL(C) SBB
+  223   224   225      2    100    25 ; GLY(C)-VAL(C) SBB
+  224   226   227      2    100    25 ; VAL(C)-PRO(C) SBB
+  228   229   230      2    100    25 ; GLY(C)-VAL(C) SBB
+  231   232   233      2    100    25 ; GLY(C)-VAL(C) SBB
+  232   234   235      2    100    25 ; VAL(C)-PRO(C) SBB
+  236   237   238      2    100    25 ; GLY(C)-VAL(C) SBB
+  239   240   241      2    100    25 ; GLY(C)-VAL(C) SBB
+  240   242   243      2    100    25 ; VAL(C)-PRO(C) SBB
+  244   245   246      2    100    25 ; GLY(C)-VAL(C) SBB
+  247   248   249      2    100    25 ; GLY(C)-VAL(C) SBB
+  248   250   251      2    100    25 ; VAL(C)-PRO(C) SBB
+  252   253   254      2    100    25 ; GLY(C)-VAL(C) SBB
+  255   256   257      2    100    25 ; GLY(C)-VAL(C) SBB
+  256   258   259      2    100    25 ; VAL(C)-PRO(C) SBB
+  260   261   262      2    100    25 ; GLY(C)-VAL(C) SBB
+; Sidechain angles
+   62    63    64      2    180    25 ; LYS
+   67    68    69      2    180    25 ; LYS
+   70    71    72      2    150    50 ; TYR
+   70    71    73      2    150    50 ; TYR
+   87    88    89      2    180    25 ; LYS
+   93    94    95      2    180    25 ; LYS
+  100   101   102      2    150    50 ; PHE
+  100   101   103      2    150    50 ; PHE
+  165   166   167      2    180    25 ; LYS
+  170   171   172      2    180    25 ; LYS
+  173   174   175      2    150    50 ; TYR
+  173   174   176      2    150    50 ; TYR
+  190   191   192      2    180    25 ; LYS
+  196   197   198      2    180    25 ; LYS
+  203   204   205      2    150    50 ; PHE
+  203   204   206      2    150    50 ; PHE
+
+[ dihedrals ]
+; Backbone dihedrals
+   57    58    59    60      1   -120   400     1 ; ALA(1)-ALA(1)-ALA(1)-ALA(1)
+   58    59    60    61      1   -120   400     1 ; ALA(1)-ALA(1)-ALA(1)-ALA(H)
+   59    60    61    62      1   -120   400     1 ; ALA(1)-ALA(1)-ALA(H)-LYS(H)
+   60    61    62    65      1   -120   400     1 ; ALA(1)-ALA(H)-LYS(H)-ALA(2)
+   61    62    65    66      1   -120   400     1 ; ALA(H)-LYS(H)-ALA(2)-ALA(2)
+   62    65    66    67      1   -120   400     1 ; LYS(H)-ALA(2)-ALA(2)-LYS(2)
+   65    66    67    70      1   -120   400     1 ; ALA(2)-ALA(2)-LYS(2)-TYR(2)
+   82    83    84    85      1   -120   400     1 ; ALA(1)-ALA(1)-ALA(1)-ALA(1)
+   83    84    85    86      1   -120   400     1 ; ALA(1)-ALA(1)-ALA(1)-ALA(H)
+   84    85    86    87      1   -120   400     1 ; ALA(1)-ALA(1)-ALA(H)-LYS(H)
+   85    86    87    90      1   -120   400     1 ; ALA(1)-ALA(H)-LYS(H)-ALA(H)
+   86    87    90    91      1   -120   400     1 ; ALA(H)-LYS(H)-ALA(H)-ALA(H)
+   87    90    91    92      1   -120   400     1 ; LYS(H)-ALA(H)-ALA(H)-ALA(H)
+   90    91    92    93      1   -120   400     1 ; ALA(H)-ALA(H)-ALA(H)-LYS(H)
+   91    92    93    96      1   -120   400     1 ; ALA(H)-ALA(H)-LYS(H)-ALA(2)
+   92    93    96    97      1   -120   400     1 ; ALA(H)-LYS(H)-ALA(2)-ALA(2)
+   93    96    97    98      1   -120   400     1 ; LYS(H)-ALA(2)-ALA(2)-GLN(2)
+   96    97    98   100      1   -120   400     1 ; ALA(2)-ALA(2)-GLN(2)-PHE(2)
+  160   161   162   163      1   -120   400     1 ; ALA(1)-ALA(1)-ALA(1)-ALA(1)
+  161   162   163   164      1   -120   400     1 ; ALA(1)-ALA(1)-ALA(1)-ALA(H)
+  162   163   164   165      1   -120   400     1 ; ALA(1)-ALA(1)-ALA(H)-LYS(H)
+  163   164   165   168      1   -120   400     1 ; ALA(1)-ALA(H)-LYS(H)-ALA(2)
+  164   165   168   169      1   -120   400     1 ; ALA(H)-LYS(H)-ALA(2)-ALA(2)
+  165   168   169   170      1   -120   400     1 ; LYS(H)-ALA(2)-ALA(2)-LYS(2)
+  168   169   170   173      1   -120   400     1 ; ALA(2)-ALA(2)-LYS(2)-TYR(2)
+  185   186   187   188      1   -120   400     1 ; ALA(1)-ALA(1)-ALA(1)-ALA(1)
+  186   187   188   189      1   -120   400     1 ; ALA(1)-ALA(1)-ALA(1)-ALA(H)
+  187   188   189   190      1   -120   400     1 ; ALA(1)-ALA(1)-ALA(H)-LYS(H)
+  188   189   190   193      1   -120   400     1 ; ALA(1)-ALA(H)-LYS(H)-ALA(H)
+  189   190   193   194      1   -120   400     1 ; ALA(H)-LYS(H)-ALA(H)-ALA(H)
+  190   193   194   195      1   -120   400     1 ; LYS(H)-ALA(H)-ALA(H)-ALA(H)
+  193   194   195   196      1   -120   400     1 ; ALA(H)-ALA(H)-ALA(H)-LYS(H)
+  194   195   196   199      1   -120   400     1 ; ALA(H)-ALA(H)-LYS(H)-ALA(2)
+  195   196   199   200      1   -120   400     1 ; ALA(H)-LYS(H)-ALA(2)-ALA(2)
+  196   199   200   201      1   -120   400     1 ; LYS(H)-ALA(2)-ALA(2)-GLN(2)
+  199   200   201   203      1   -120   400     1 ; ALA(2)-ALA(2)-GLN(2)-PHE(2)
+; Sidechain improper dihedrals
+   70    72    73    71      2      0    50 ; TYR
+  100   102   103   101      2      0    50 ; PHE
+  173   175   176   174      2      0    50 ; TYR
+  203   205   206   204      2      0    50 ; PHE
+; quartets parameters from Mikyung, JCTC, 2012 (8) 1774-1785, added by zyxue --2013-10-18
+; copied from epz1_c_dih.itp
+    1     2     4     6     1    0.000000    3.404023     1
+    1     2     4     6     1    0.000000    1.517194     2
+    1     2     4     6     1    0.000000   -0.151486     3
+    1     2     4     6     1    0.000000    0.003505     4
+    1     2     4     6     1   90.000000    4.898950     1
+    1     2     4     6     1   90.000000   -1.246595     2
+    1     2     4     6     1   90.000000   -0.587647     3
+    1     2     4     6     1   90.000000   -0.123101     4
+    1     2     4     6     1   90.000000   10.868441     0
+    2     4     6     7     1    0.000000   -0.970742     1
+    2     4     6     7     1    0.000000   -0.421440     2
+    2     4     6     7     1    0.000000    0.314365     3
+    2     4     6     7     1    0.000000    0.473802     4
+    2     4     6     7     1   90.000000    1.152995     1
+    2     4     6     7     1   90.000000   -0.597699     2
+    2     4     6     7     1   90.000000   -0.148852     3
+    2     4     6     7     1   90.000000   -0.461853     4
+    2     4     6     7     1   90.000000   15.893715     0
+    4     6     7     9     1    0.000000    0.746513     1
+    4     6     7     9     1    0.000000   -0.332803     2
+    4     6     7     9     1    0.000000    0.046517     3
+    4     6     7     9     1    0.000000    0.105136     4
+    4     6     7     9     1   90.000000   -2.617351     1
+    4     6     7     9     1   90.000000   -0.161660     2
+    4     6     7     9     1   90.000000    0.468383     3
+    4     6     7     9     1   90.000000    0.259117     4
+    4     6     7     9     1   90.000000   17.127026     0
+    6     7     9    10     1    0.000000   -0.185406     1
+    6     7     9    10     1    0.000000   -0.184531     2
+    6     7     9    10     1    0.000000    0.042111     3
+    6     7     9    10     1    0.000000    0.055186     4
+    6     7     9    10     1   90.000000    0.195645     1
+    6     7     9    10     1   90.000000   -0.530603     2
+    6     7     9    10     1   90.000000   -0.033636     3
+    6     7     9    10     1   90.000000   -0.312372     4
+    6     7     9    10     1   90.000000   15.953331     0
+    7     9    10    12     1    0.000000    0.068082     1
+    7     9    10    12     1    0.000000   -0.459752     2
+    7     9    10    12     1    0.000000    0.321160     3
+    7     9    10    12     1    0.000000    0.138277     4
+    7     9    10    12     1   90.000000    4.062207     1
+    7     9    10    12     1   90.000000   -0.070184     2
+    7     9    10    12     1   90.000000    0.665566     3
+    7     9    10    12     1   90.000000   -0.418288     4
+    7     9    10    12     1   90.000000   12.047799     0
+    9    10    12    14     1    0.000000    3.404023     1
+    9    10    12    14     1    0.000000    1.517194     2
+    9    10    12    14     1    0.000000   -0.151486     3
+    9    10    12    14     1    0.000000    0.003505     4
+    9    10    12    14     1   90.000000    4.898950     1
+    9    10    12    14     1   90.000000   -1.246595     2
+    9    10    12    14     1   90.000000   -0.587647     3
+    9    10    12    14     1   90.000000   -0.123101     4
+    9    10    12    14     1   90.000000   10.868441     0
+   10    12    14    15     1    0.000000   -0.970742     1
+   10    12    14    15     1    0.000000   -0.421440     2
+   10    12    14    15     1    0.000000    0.314365     3
+   10    12    14    15     1    0.000000    0.473802     4
+   10    12    14    15     1   90.000000    1.152995     1
+   10    12    14    15     1   90.000000   -0.597699     2
+   10    12    14    15     1   90.000000   -0.148852     3
+   10    12    14    15     1   90.000000   -0.461853     4
+   10    12    14    15     1   90.000000   15.893715     0
+   12    14    15    17     1    0.000000    0.746513     1
+   12    14    15    17     1    0.000000   -0.332803     2
+   12    14    15    17     1    0.000000    0.046517     3
+   12    14    15    17     1    0.000000    0.105136     4
+   12    14    15    17     1   90.000000   -2.617351     1
+   12    14    15    17     1   90.000000   -0.161660     2
+   12    14    15    17     1   90.000000    0.468383     3
+   12    14    15    17     1   90.000000    0.259117     4
+   12    14    15    17     1   90.000000   17.127026     0
+   14    15    17    18     1    0.000000   -0.185406     1
+   14    15    17    18     1    0.000000   -0.184531     2
+   14    15    17    18     1    0.000000    0.042111     3
+   14    15    17    18     1    0.000000    0.055186     4
+   14    15    17    18     1   90.000000    0.195645     1
+   14    15    17    18     1   90.000000   -0.530603     2
+   14    15    17    18     1   90.000000   -0.033636     3
+   14    15    17    18     1   90.000000   -0.312372     4
+   14    15    17    18     1   90.000000   15.953331     0
+   15    17    18    20     1    0.000000    0.068082     1
+   15    17    18    20     1    0.000000   -0.459752     2
+   15    17    18    20     1    0.000000    0.321160     3
+   15    17    18    20     1    0.000000    0.138277     4
+   15    17    18    20     1   90.000000    4.062207     1
+   15    17    18    20     1   90.000000   -0.070184     2
+   15    17    18    20     1   90.000000    0.665566     3
+   15    17    18    20     1   90.000000   -0.418288     4
+   15    17    18    20     1   90.000000   12.047799     0
+   17    18    20    22     1    0.000000    3.404023     1
+   17    18    20    22     1    0.000000    1.517194     2
+   17    18    20    22     1    0.000000   -0.151486     3
+   17    18    20    22     1    0.000000    0.003505     4
+   17    18    20    22     1   90.000000    4.898950     1
+   17    18    20    22     1   90.000000   -1.246595     2
+   17    18    20    22     1   90.000000   -0.587647     3
+   17    18    20    22     1   90.000000   -0.123101     4
+   17    18    20    22     1   90.000000   10.868441     0
+   18    20    22    23     1    0.000000   -0.970742     1
+   18    20    22    23     1    0.000000   -0.421440     2
+   18    20    22    23     1    0.000000    0.314365     3
+   18    20    22    23     1    0.000000    0.473802     4
+   18    20    22    23     1   90.000000    1.152995     1
+   18    20    22    23     1   90.000000   -0.597699     2
+   18    20    22    23     1   90.000000   -0.148852     3
+   18    20    22    23     1   90.000000   -0.461853     4
+   18    20    22    23     1   90.000000   15.893715     0
+   20    22    23    25     1    0.000000    0.746513     1
+   20    22    23    25     1    0.000000   -0.332803     2
+   20    22    23    25     1    0.000000    0.046517     3
+   20    22    23    25     1    0.000000    0.105136     4
+   20    22    23    25     1   90.000000   -2.617351     1
+   20    22    23    25     1   90.000000   -0.161660     2
+   20    22    23    25     1   90.000000    0.468383     3
+   20    22    23    25     1   90.000000    0.259117     4
+   20    22    23    25     1   90.000000   17.127026     0
+   22    23    25    26     1    0.000000   -0.185406     1
+   22    23    25    26     1    0.000000   -0.184531     2
+   22    23    25    26     1    0.000000    0.042111     3
+   22    23    25    26     1    0.000000    0.055186     4
+   22    23    25    26     1   90.000000    0.195645     1
+   22    23    25    26     1   90.000000   -0.530603     2
+   22    23    25    26     1   90.000000   -0.033636     3
+   22    23    25    26     1   90.000000   -0.312372     4
+   22    23    25    26     1   90.000000   15.953331     0
+   23    25    26    28     1    0.000000    0.068082     1
+   23    25    26    28     1    0.000000   -0.459752     2
+   23    25    26    28     1    0.000000    0.321160     3
+   23    25    26    28     1    0.000000    0.138277     4
+   23    25    26    28     1   90.000000    4.062207     1
+   23    25    26    28     1   90.000000   -0.070184     2
+   23    25    26    28     1   90.000000    0.665566     3
+   23    25    26    28     1   90.000000   -0.418288     4
+   23    25    26    28     1   90.000000   12.047799     0
+   25    26    28    30     1    0.000000    3.404023     1
+   25    26    28    30     1    0.000000    1.517194     2
+   25    26    28    30     1    0.000000   -0.151486     3
+   25    26    28    30     1    0.000000    0.003505     4
+   25    26    28    30     1   90.000000    4.898950     1
+   25    26    28    30     1   90.000000   -1.246595     2
+   25    26    28    30     1   90.000000   -0.587647     3
+   25    26    28    30     1   90.000000   -0.123101     4
+   25    26    28    30     1   90.000000   10.868441     0
+   26    28    30    31     1    0.000000   -0.970742     1
+   26    28    30    31     1    0.000000   -0.421440     2
+   26    28    30    31     1    0.000000    0.314365     3
+   26    28    30    31     1    0.000000    0.473802     4
+   26    28    30    31     1   90.000000    1.152995     1
+   26    28    30    31     1   90.000000   -0.597699     2
+   26    28    30    31     1   90.000000   -0.148852     3
+   26    28    30    31     1   90.000000   -0.461853     4
+   26    28    30    31     1   90.000000   15.893715     0
+   28    30    31    33     1    0.000000    0.746513     1
+   28    30    31    33     1    0.000000   -0.332803     2
+   28    30    31    33     1    0.000000    0.046517     3
+   28    30    31    33     1    0.000000    0.105136     4
+   28    30    31    33     1   90.000000   -2.617351     1
+   28    30    31    33     1   90.000000   -0.161660     2
+   28    30    31    33     1   90.000000    0.468383     3
+   28    30    31    33     1   90.000000    0.259117     4
+   28    30    31    33     1   90.000000   17.127026     0
+   30    31    33    34     1    0.000000   -0.185406     1
+   30    31    33    34     1    0.000000   -0.184531     2
+   30    31    33    34     1    0.000000    0.042111     3
+   30    31    33    34     1    0.000000    0.055186     4
+   30    31    33    34     1   90.000000    0.195645     1
+   30    31    33    34     1   90.000000   -0.530603     2
+   30    31    33    34     1   90.000000   -0.033636     3
+   30    31    33    34     1   90.000000   -0.312372     4
+   30    31    33    34     1   90.000000   15.953331     0
+   31    33    34    36     1    0.000000    0.068082     1
+   31    33    34    36     1    0.000000   -0.459752     2
+   31    33    34    36     1    0.000000    0.321160     3
+   31    33    34    36     1    0.000000    0.138277     4
+   31    33    34    36     1   90.000000    4.062207     1
+   31    33    34    36     1   90.000000   -0.070184     2
+   31    33    34    36     1   90.000000    0.665566     3
+   31    33    34    36     1   90.000000   -0.418288     4
+   31    33    34    36     1   90.000000   12.047799     0
+   33    34    36    38     1    0.000000    3.404023     1
+   33    34    36    38     1    0.000000    1.517194     2
+   33    34    36    38     1    0.000000   -0.151486     3
+   33    34    36    38     1    0.000000    0.003505     4
+   33    34    36    38     1   90.000000    4.898950     1
+   33    34    36    38     1   90.000000   -1.246595     2
+   33    34    36    38     1   90.000000   -0.587647     3
+   33    34    36    38     1   90.000000   -0.123101     4
+   33    34    36    38     1   90.000000   10.868441     0
+   34    36    38    39     1    0.000000   -0.970742     1
+   34    36    38    39     1    0.000000   -0.421440     2
+   34    36    38    39     1    0.000000    0.314365     3
+   34    36    38    39     1    0.000000    0.473802     4
+   34    36    38    39     1   90.000000    1.152995     1
+   34    36    38    39     1   90.000000   -0.597699     2
+   34    36    38    39     1   90.000000   -0.148852     3
+   34    36    38    39     1   90.000000   -0.461853     4
+   34    36    38    39     1   90.000000   15.893715     0
+   36    38    39    41     1    0.000000    0.746513     1
+   36    38    39    41     1    0.000000   -0.332803     2
+   36    38    39    41     1    0.000000    0.046517     3
+   36    38    39    41     1    0.000000    0.105136     4
+   36    38    39    41     1   90.000000   -2.617351     1
+   36    38    39    41     1   90.000000   -0.161660     2
+   36    38    39    41     1   90.000000    0.468383     3
+   36    38    39    41     1   90.000000    0.259117     4
+   36    38    39    41     1   90.000000   17.127026     0
+   38    39    41    42     1    0.000000   -0.185406     1
+   38    39    41    42     1    0.000000   -0.184531     2
+   38    39    41    42     1    0.000000    0.042111     3
+   38    39    41    42     1    0.000000    0.055186     4
+   38    39    41    42     1   90.000000    0.195645     1
+   38    39    41    42     1   90.000000   -0.530603     2
+   38    39    41    42     1   90.000000   -0.033636     3
+   38    39    41    42     1   90.000000   -0.312372     4
+   38    39    41    42     1   90.000000   15.953331     0
+   39    41    42    44     1    0.000000    0.068082     1
+   39    41    42    44     1    0.000000   -0.459752     2
+   39    41    42    44     1    0.000000    0.321160     3
+   39    41    42    44     1    0.000000    0.138277     4
+   39    41    42    44     1   90.000000    4.062207     1
+   39    41    42    44     1   90.000000   -0.070184     2
+   39    41    42    44     1   90.000000    0.665566     3
+   39    41    42    44     1   90.000000   -0.418288     4
+   39    41    42    44     1   90.000000   12.047799     0
+   41    42    44    46     1    0.000000    3.404023     1
+   41    42    44    46     1    0.000000    1.517194     2
+   41    42    44    46     1    0.000000   -0.151486     3
+   41    42    44    46     1    0.000000    0.003505     4
+   41    42    44    46     1   90.000000    4.898950     1
+   41    42    44    46     1   90.000000   -1.246595     2
+   41    42    44    46     1   90.000000   -0.587647     3
+   41    42    44    46     1   90.000000   -0.123101     4
+   41    42    44    46     1   90.000000   10.868441     0
+   42    44    46    47     1    0.000000   -0.970742     1
+   42    44    46    47     1    0.000000   -0.421440     2
+   42    44    46    47     1    0.000000    0.314365     3
+   42    44    46    47     1    0.000000    0.473802     4
+   42    44    46    47     1   90.000000    1.152995     1
+   42    44    46    47     1   90.000000   -0.597699     2
+   42    44    46    47     1   90.000000   -0.148852     3
+   42    44    46    47     1   90.000000   -0.461853     4
+   42    44    46    47     1   90.000000   15.893715     0
+   44    46    47    49     1    0.000000    0.746513     1
+   44    46    47    49     1    0.000000   -0.332803     2
+   44    46    47    49     1    0.000000    0.046517     3
+   44    46    47    49     1    0.000000    0.105136     4
+   44    46    47    49     1   90.000000   -2.617351     1
+   44    46    47    49     1   90.000000   -0.161660     2
+   44    46    47    49     1   90.000000    0.468383     3
+   44    46    47    49     1   90.000000    0.259117     4
+   44    46    47    49     1   90.000000   17.127026     0
+   46    47    49    50     1    0.000000   -0.185406     1
+   46    47    49    50     1    0.000000   -0.184531     2
+   46    47    49    50     1    0.000000    0.042111     3
+   46    47    49    50     1    0.000000    0.055186     4
+   46    47    49    50     1   90.000000    0.195645     1
+   46    47    49    50     1   90.000000   -0.530603     2
+   46    47    49    50     1   90.000000   -0.033636     3
+   46    47    49    50     1   90.000000   -0.312372     4
+   46    47    49    50     1   90.000000   15.953331     0
+   47    49    50    52     1    0.000000    0.068082     1
+   47    49    50    52     1    0.000000   -0.459752     2
+   47    49    50    52     1    0.000000    0.321160     3
+   47    49    50    52     1    0.000000    0.138277     4
+   47    49    50    52     1   90.000000    4.062207     1
+   47    49    50    52     1   90.000000   -0.070184     2
+   47    49    50    52     1   90.000000    0.665566     3
+   47    49    50    52     1   90.000000   -0.418288     4
+   47    49    50    52     1   90.000000   12.047799     0
+   49    50    52    54     1    0.000000    3.404023     1
+   49    50    52    54     1    0.000000    1.517194     2
+   49    50    52    54     1    0.000000   -0.151486     3
+   49    50    52    54     1    0.000000    0.003505     4
+   49    50    52    54     1   90.000000    4.898950     1
+   49    50    52    54     1   90.000000   -1.246595     2
+   49    50    52    54     1   90.000000   -0.587647     3
+   49    50    52    54     1   90.000000   -0.123101     4
+   49    50    52    54     1   90.000000   10.868441     0
+   50    52    54    55     1    0.000000   -0.970742     1
+   50    52    54    55     1    0.000000   -0.421440     2
+   50    52    54    55     1    0.000000    0.314365     3
+   50    52    54    55     1    0.000000    0.473802     4
+   50    52    54    55     1   90.000000    1.152995     1
+   50    52    54    55     1   90.000000   -0.597699     2
+   50    52    54    55     1   90.000000   -0.148852     3
+   50    52    54    55     1   90.000000   -0.461853     4
+   50    52    54    55     1   90.000000   15.893715     0
+  104   105   107   109     1    0.000000    3.404023     1
+  104   105   107   109     1    0.000000    1.517194     2
+  104   105   107   109     1    0.000000   -0.151486     3
+  104   105   107   109     1    0.000000    0.003505     4
+  104   105   107   109     1   90.000000    4.898950     1
+  104   105   107   109     1   90.000000   -1.246595     2
+  104   105   107   109     1   90.000000   -0.587647     3
+  104   105   107   109     1   90.000000   -0.123101     4
+  104   105   107   109     1   90.000000   10.868441     0
+  105   107   109   110     1    0.000000   -0.970742     1
+  105   107   109   110     1    0.000000   -0.421440     2
+  105   107   109   110     1    0.000000    0.314365     3
+  105   107   109   110     1    0.000000    0.473802     4
+  105   107   109   110     1   90.000000    1.152995     1
+  105   107   109   110     1   90.000000   -0.597699     2
+  105   107   109   110     1   90.000000   -0.148852     3
+  105   107   109   110     1   90.000000   -0.461853     4
+  105   107   109   110     1   90.000000   15.893715     0
+  107   109   110   112     1    0.000000    0.746513     1
+  107   109   110   112     1    0.000000   -0.332803     2
+  107   109   110   112     1    0.000000    0.046517     3
+  107   109   110   112     1    0.000000    0.105136     4
+  107   109   110   112     1   90.000000   -2.617351     1
+  107   109   110   112     1   90.000000   -0.161660     2
+  107   109   110   112     1   90.000000    0.468383     3
+  107   109   110   112     1   90.000000    0.259117     4
+  107   109   110   112     1   90.000000   17.127026     0
+  109   110   112   113     1    0.000000   -0.185406     1
+  109   110   112   113     1    0.000000   -0.184531     2
+  109   110   112   113     1    0.000000    0.042111     3
+  109   110   112   113     1    0.000000    0.055186     4
+  109   110   112   113     1   90.000000    0.195645     1
+  109   110   112   113     1   90.000000   -0.530603     2
+  109   110   112   113     1   90.000000   -0.033636     3
+  109   110   112   113     1   90.000000   -0.312372     4
+  109   110   112   113     1   90.000000   15.953331     0
+  110   112   113   115     1    0.000000    0.068082     1
+  110   112   113   115     1    0.000000   -0.459752     2
+  110   112   113   115     1    0.000000    0.321160     3
+  110   112   113   115     1    0.000000    0.138277     4
+  110   112   113   115     1   90.000000    4.062207     1
+  110   112   113   115     1   90.000000   -0.070184     2
+  110   112   113   115     1   90.000000    0.665566     3
+  110   112   113   115     1   90.000000   -0.418288     4
+  110   112   113   115     1   90.000000   12.047799     0
+  112   113   115   117     1    0.000000    3.404023     1
+  112   113   115   117     1    0.000000    1.517194     2
+  112   113   115   117     1    0.000000   -0.151486     3
+  112   113   115   117     1    0.000000    0.003505     4
+  112   113   115   117     1   90.000000    4.898950     1
+  112   113   115   117     1   90.000000   -1.246595     2
+  112   113   115   117     1   90.000000   -0.587647     3
+  112   113   115   117     1   90.000000   -0.123101     4
+  112   113   115   117     1   90.000000   10.868441     0
+  113   115   117   118     1    0.000000   -0.970742     1
+  113   115   117   118     1    0.000000   -0.421440     2
+  113   115   117   118     1    0.000000    0.314365     3
+  113   115   117   118     1    0.000000    0.473802     4
+  113   115   117   118     1   90.000000    1.152995     1
+  113   115   117   118     1   90.000000   -0.597699     2
+  113   115   117   118     1   90.000000   -0.148852     3
+  113   115   117   118     1   90.000000   -0.461853     4
+  113   115   117   118     1   90.000000   15.893715     0
+  115   117   118   120     1    0.000000    0.746513     1
+  115   117   118   120     1    0.000000   -0.332803     2
+  115   117   118   120     1    0.000000    0.046517     3
+  115   117   118   120     1    0.000000    0.105136     4
+  115   117   118   120     1   90.000000   -2.617351     1
+  115   117   118   120     1   90.000000   -0.161660     2
+  115   117   118   120     1   90.000000    0.468383     3
+  115   117   118   120     1   90.000000    0.259117     4
+  115   117   118   120     1   90.000000   17.127026     0
+  117   118   120   121     1    0.000000   -0.185406     1
+  117   118   120   121     1    0.000000   -0.184531     2
+  117   118   120   121     1    0.000000    0.042111     3
+  117   118   120   121     1    0.000000    0.055186     4
+  117   118   120   121     1   90.000000    0.195645     1
+  117   118   120   121     1   90.000000   -0.530603     2
+  117   118   120   121     1   90.000000   -0.033636     3
+  117   118   120   121     1   90.000000   -0.312372     4
+  117   118   120   121     1   90.000000   15.953331     0
+  118   120   121   123     1    0.000000    0.068082     1
+  118   120   121   123     1    0.000000   -0.459752     2
+  118   120   121   123     1    0.000000    0.321160     3
+  118   120   121   123     1    0.000000    0.138277     4
+  118   120   121   123     1   90.000000    4.062207     1
+  118   120   121   123     1   90.000000   -0.070184     2
+  118   120   121   123     1   90.000000    0.665566     3
+  118   120   121   123     1   90.000000   -0.418288     4
+  118   120   121   123     1   90.000000   12.047799     0
+  120   121   123   125     1    0.000000    3.404023     1
+  120   121   123   125     1    0.000000    1.517194     2
+  120   121   123   125     1    0.000000   -0.151486     3
+  120   121   123   125     1    0.000000    0.003505     4
+  120   121   123   125     1   90.000000    4.898950     1
+  120   121   123   125     1   90.000000   -1.246595     2
+  120   121   123   125     1   90.000000   -0.587647     3
+  120   121   123   125     1   90.000000   -0.123101     4
+  120   121   123   125     1   90.000000   10.868441     0
+  121   123   125   126     1    0.000000   -0.970742     1
+  121   123   125   126     1    0.000000   -0.421440     2
+  121   123   125   126     1    0.000000    0.314365     3
+  121   123   125   126     1    0.000000    0.473802     4
+  121   123   125   126     1   90.000000    1.152995     1
+  121   123   125   126     1   90.000000   -0.597699     2
+  121   123   125   126     1   90.000000   -0.148852     3
+  121   123   125   126     1   90.000000   -0.461853     4
+  121   123   125   126     1   90.000000   15.893715     0
+  123   125   126   128     1    0.000000    0.746513     1
+  123   125   126   128     1    0.000000   -0.332803     2
+  123   125   126   128     1    0.000000    0.046517     3
+  123   125   126   128     1    0.000000    0.105136     4
+  123   125   126   128     1   90.000000   -2.617351     1
+  123   125   126   128     1   90.000000   -0.161660     2
+  123   125   126   128     1   90.000000    0.468383     3
+  123   125   126   128     1   90.000000    0.259117     4
+  123   125   126   128     1   90.000000   17.127026     0
+  125   126   128   129     1    0.000000   -0.185406     1
+  125   126   128   129     1    0.000000   -0.184531     2
+  125   126   128   129     1    0.000000    0.042111     3
+  125   126   128   129     1    0.000000    0.055186     4
+  125   126   128   129     1   90.000000    0.195645     1
+  125   126   128   129     1   90.000000   -0.530603     2
+  125   126   128   129     1   90.000000   -0.033636     3
+  125   126   128   129     1   90.000000   -0.312372     4
+  125   126   128   129     1   90.000000   15.953331     0
+  126   128   129   131     1    0.000000    0.068082     1
+  126   128   129   131     1    0.000000   -0.459752     2
+  126   128   129   131     1    0.000000    0.321160     3
+  126   128   129   131     1    0.000000    0.138277     4
+  126   128   129   131     1   90.000000    4.062207     1
+  126   128   129   131     1   90.000000   -0.070184     2
+  126   128   129   131     1   90.000000    0.665566     3
+  126   128   129   131     1   90.000000   -0.418288     4
+  126   128   129   131     1   90.000000   12.047799     0
+  128   129   131   133     1    0.000000    3.404023     1
+  128   129   131   133     1    0.000000    1.517194     2
+  128   129   131   133     1    0.000000   -0.151486     3
+  128   129   131   133     1    0.000000    0.003505     4
+  128   129   131   133     1   90.000000    4.898950     1
+  128   129   131   133     1   90.000000   -1.246595     2
+  128   129   131   133     1   90.000000   -0.587647     3
+  128   129   131   133     1   90.000000   -0.123101     4
+  128   129   131   133     1   90.000000   10.868441     0
+  129   131   133   134     1    0.000000   -0.970742     1
+  129   131   133   134     1    0.000000   -0.421440     2
+  129   131   133   134     1    0.000000    0.314365     3
+  129   131   133   134     1    0.000000    0.473802     4
+  129   131   133   134     1   90.000000    1.152995     1
+  129   131   133   134     1   90.000000   -0.597699     2
+  129   131   133   134     1   90.000000   -0.148852     3
+  129   131   133   134     1   90.000000   -0.461853     4
+  129   131   133   134     1   90.000000   15.893715     0
+  131   133   134   136     1    0.000000    0.746513     1
+  131   133   134   136     1    0.000000   -0.332803     2
+  131   133   134   136     1    0.000000    0.046517     3
+  131   133   134   136     1    0.000000    0.105136     4
+  131   133   134   136     1   90.000000   -2.617351     1
+  131   133   134   136     1   90.000000   -0.161660     2
+  131   133   134   136     1   90.000000    0.468383     3
+  131   133   134   136     1   90.000000    0.259117     4
+  131   133   134   136     1   90.000000   17.127026     0
+  133   134   136   137     1    0.000000   -0.185406     1
+  133   134   136   137     1    0.000000   -0.184531     2
+  133   134   136   137     1    0.000000    0.042111     3
+  133   134   136   137     1    0.000000    0.055186     4
+  133   134   136   137     1   90.000000    0.195645     1
+  133   134   136   137     1   90.000000   -0.530603     2
+  133   134   136   137     1   90.000000   -0.033636     3
+  133   134   136   137     1   90.000000   -0.312372     4
+  133   134   136   137     1   90.000000   15.953331     0
+  134   136   137   139     1    0.000000    0.068082     1
+  134   136   137   139     1    0.000000   -0.459752     2
+  134   136   137   139     1    0.000000    0.321160     3
+  134   136   137   139     1    0.000000    0.138277     4
+  134   136   137   139     1   90.000000    4.062207     1
+  134   136   137   139     1   90.000000   -0.070184     2
+  134   136   137   139     1   90.000000    0.665566     3
+  134   136   137   139     1   90.000000   -0.418288     4
+  134   136   137   139     1   90.000000   12.047799     0
+  136   137   139   141     1    0.000000    3.404023     1
+  136   137   139   141     1    0.000000    1.517194     2
+  136   137   139   141     1    0.000000   -0.151486     3
+  136   137   139   141     1    0.000000    0.003505     4
+  136   137   139   141     1   90.000000    4.898950     1
+  136   137   139   141     1   90.000000   -1.246595     2
+  136   137   139   141     1   90.000000   -0.587647     3
+  136   137   139   141     1   90.000000   -0.123101     4
+  136   137   139   141     1   90.000000   10.868441     0
+  137   139   141   142     1    0.000000   -0.970742     1
+  137   139   141   142     1    0.000000   -0.421440     2
+  137   139   141   142     1    0.000000    0.314365     3
+  137   139   141   142     1    0.000000    0.473802     4
+  137   139   141   142     1   90.000000    1.152995     1
+  137   139   141   142     1   90.000000   -0.597699     2
+  137   139   141   142     1   90.000000   -0.148852     3
+  137   139   141   142     1   90.000000   -0.461853     4
+  137   139   141   142     1   90.000000   15.893715     0
+  139   141   142   144     1    0.000000    0.746513     1
+  139   141   142   144     1    0.000000   -0.332803     2
+  139   141   142   144     1    0.000000    0.046517     3
+  139   141   142   144     1    0.000000    0.105136     4
+  139   141   142   144     1   90.000000   -2.617351     1
+  139   141   142   144     1   90.000000   -0.161660     2
+  139   141   142   144     1   90.000000    0.468383     3
+  139   141   142   144     1   90.000000    0.259117     4
+  139   141   142   144     1   90.000000   17.127026     0
+  141   142   144   145     1    0.000000   -0.185406     1
+  141   142   144   145     1    0.000000   -0.184531     2
+  141   142   144   145     1    0.000000    0.042111     3
+  141   142   144   145     1    0.000000    0.055186     4
+  141   142   144   145     1   90.000000    0.195645     1
+  141   142   144   145     1   90.000000   -0.530603     2
+  141   142   144   145     1   90.000000   -0.033636     3
+  141   142   144   145     1   90.000000   -0.312372     4
+  141   142   144   145     1   90.000000   15.953331     0
+  142   144   145   147     1    0.000000    0.068082     1
+  142   144   145   147     1    0.000000   -0.459752     2
+  142   144   145   147     1    0.000000    0.321160     3
+  142   144   145   147     1    0.000000    0.138277     4
+  142   144   145   147     1   90.000000    4.062207     1
+  142   144   145   147     1   90.000000   -0.070184     2
+  142   144   145   147     1   90.000000    0.665566     3
+  142   144   145   147     1   90.000000   -0.418288     4
+  142   144   145   147     1   90.000000   12.047799     0
+  144   145   147   149     1    0.000000    3.404023     1
+  144   145   147   149     1    0.000000    1.517194     2
+  144   145   147   149     1    0.000000   -0.151486     3
+  144   145   147   149     1    0.000000    0.003505     4
+  144   145   147   149     1   90.000000    4.898950     1
+  144   145   147   149     1   90.000000   -1.246595     2
+  144   145   147   149     1   90.000000   -0.587647     3
+  144   145   147   149     1   90.000000   -0.123101     4
+  144   145   147   149     1   90.000000   10.868441     0
+  145   147   149   150     1    0.000000   -0.970742     1
+  145   147   149   150     1    0.000000   -0.421440     2
+  145   147   149   150     1    0.000000    0.314365     3
+  145   147   149   150     1    0.000000    0.473802     4
+  145   147   149   150     1   90.000000    1.152995     1
+  145   147   149   150     1   90.000000   -0.597699     2
+  145   147   149   150     1   90.000000   -0.148852     3
+  145   147   149   150     1   90.000000   -0.461853     4
+  145   147   149   150     1   90.000000   15.893715     0
+  147   149   150   152     1    0.000000    0.746513     1
+  147   149   150   152     1    0.000000   -0.332803     2
+  147   149   150   152     1    0.000000    0.046517     3
+  147   149   150   152     1    0.000000    0.105136     4
+  147   149   150   152     1   90.000000   -2.617351     1
+  147   149   150   152     1   90.000000   -0.161660     2
+  147   149   150   152     1   90.000000    0.468383     3
+  147   149   150   152     1   90.000000    0.259117     4
+  147   149   150   152     1   90.000000   17.127026     0
+  149   150   152   153     1    0.000000   -0.185406     1
+  149   150   152   153     1    0.000000   -0.184531     2
+  149   150   152   153     1    0.000000    0.042111     3
+  149   150   152   153     1    0.000000    0.055186     4
+  149   150   152   153     1   90.000000    0.195645     1
+  149   150   152   153     1   90.000000   -0.530603     2
+  149   150   152   153     1   90.000000   -0.033636     3
+  149   150   152   153     1   90.000000   -0.312372     4
+  149   150   152   153     1   90.000000   15.953331     0
+  150   152   153   155     1    0.000000    0.068082     1
+  150   152   153   155     1    0.000000   -0.459752     2
+  150   152   153   155     1    0.000000    0.321160     3
+  150   152   153   155     1    0.000000    0.138277     4
+  150   152   153   155     1   90.000000    4.062207     1
+  150   152   153   155     1   90.000000   -0.070184     2
+  150   152   153   155     1   90.000000    0.665566     3
+  150   152   153   155     1   90.000000   -0.418288     4
+  150   152   153   155     1   90.000000   12.047799     0
+  152   153   155   157     1    0.000000    3.404023     1
+  152   153   155   157     1    0.000000    1.517194     2
+  152   153   155   157     1    0.000000   -0.151486     3
+  152   153   155   157     1    0.000000    0.003505     4
+  152   153   155   157     1   90.000000    4.898950     1
+  152   153   155   157     1   90.000000   -1.246595     2
+  152   153   155   157     1   90.000000   -0.587647     3
+  152   153   155   157     1   90.000000   -0.123101     4
+  152   153   155   157     1   90.000000   10.868441     0
+  153   155   157   158     1    0.000000   -0.970742     1
+  153   155   157   158     1    0.000000   -0.421440     2
+  153   155   157   158     1    0.000000    0.314365     3
+  153   155   157   158     1    0.000000    0.473802     4
+  153   155   157   158     1   90.000000    1.152995     1
+  153   155   157   158     1   90.000000   -0.597699     2
+  153   155   157   158     1   90.000000   -0.148852     3
+  153   155   157   158     1   90.000000   -0.461853     4
+  153   155   157   158     1   90.000000   15.893715     0
+  207   208   210   212     1    0.000000    3.404023     1
+  207   208   210   212     1    0.000000    1.517194     2
+  207   208   210   212     1    0.000000   -0.151486     3
+  207   208   210   212     1    0.000000    0.003505     4
+  207   208   210   212     1   90.000000    4.898950     1
+  207   208   210   212     1   90.000000   -1.246595     2
+  207   208   210   212     1   90.000000   -0.587647     3
+  207   208   210   212     1   90.000000   -0.123101     4
+  207   208   210   212     1   90.000000   10.868441     0
+  208   210   212   213     1    0.000000   -0.970742     1
+  208   210   212   213     1    0.000000   -0.421440     2
+  208   210   212   213     1    0.000000    0.314365     3
+  208   210   212   213     1    0.000000    0.473802     4
+  208   210   212   213     1   90.000000    1.152995     1
+  208   210   212   213     1   90.000000   -0.597699     2
+  208   210   212   213     1   90.000000   -0.148852     3
+  208   210   212   213     1   90.000000   -0.461853     4
+  208   210   212   213     1   90.000000   15.893715     0
+  210   212   213   215     1    0.000000    0.746513     1
+  210   212   213   215     1    0.000000   -0.332803     2
+  210   212   213   215     1    0.000000    0.046517     3
+  210   212   213   215     1    0.000000    0.105136     4
+  210   212   213   215     1   90.000000   -2.617351     1
+  210   212   213   215     1   90.000000   -0.161660     2
+  210   212   213   215     1   90.000000    0.468383     3
+  210   212   213   215     1   90.000000    0.259117     4
+  210   212   213   215     1   90.000000   17.127026     0
+  212   213   215   216     1    0.000000   -0.185406     1
+  212   213   215   216     1    0.000000   -0.184531     2
+  212   213   215   216     1    0.000000    0.042111     3
+  212   213   215   216     1    0.000000    0.055186     4
+  212   213   215   216     1   90.000000    0.195645     1
+  212   213   215   216     1   90.000000   -0.530603     2
+  212   213   215   216     1   90.000000   -0.033636     3
+  212   213   215   216     1   90.000000   -0.312372     4
+  212   213   215   216     1   90.000000   15.953331     0
+  213   215   216   218     1    0.000000    0.068082     1
+  213   215   216   218     1    0.000000   -0.459752     2
+  213   215   216   218     1    0.000000    0.321160     3
+  213   215   216   218     1    0.000000    0.138277     4
+  213   215   216   218     1   90.000000    4.062207     1
+  213   215   216   218     1   90.000000   -0.070184     2
+  213   215   216   218     1   90.000000    0.665566     3
+  213   215   216   218     1   90.000000   -0.418288     4
+  213   215   216   218     1   90.000000   12.047799     0
+  215   216   218   220     1    0.000000    3.404023     1
+  215   216   218   220     1    0.000000    1.517194     2
+  215   216   218   220     1    0.000000   -0.151486     3
+  215   216   218   220     1    0.000000    0.003505     4
+  215   216   218   220     1   90.000000    4.898950     1
+  215   216   218   220     1   90.000000   -1.246595     2
+  215   216   218   220     1   90.000000   -0.587647     3
+  215   216   218   220     1   90.000000   -0.123101     4
+  215   216   218   220     1   90.000000   10.868441     0
+  216   218   220   221     1    0.000000   -0.970742     1
+  216   218   220   221     1    0.000000   -0.421440     2
+  216   218   220   221     1    0.000000    0.314365     3
+  216   218   220   221     1    0.000000    0.473802     4
+  216   218   220   221     1   90.000000    1.152995     1
+  216   218   220   221     1   90.000000   -0.597699     2
+  216   218   220   221     1   90.000000   -0.148852     3
+  216   218   220   221     1   90.000000   -0.461853     4
+  216   218   220   221     1   90.000000   15.893715     0
+  218   220   221   223     1    0.000000    0.746513     1
+  218   220   221   223     1    0.000000   -0.332803     2
+  218   220   221   223     1    0.000000    0.046517     3
+  218   220   221   223     1    0.000000    0.105136     4
+  218   220   221   223     1   90.000000   -2.617351     1
+  218   220   221   223     1   90.000000   -0.161660     2
+  218   220   221   223     1   90.000000    0.468383     3
+  218   220   221   223     1   90.000000    0.259117     4
+  218   220   221   223     1   90.000000   17.127026     0
+  220   221   223   224     1    0.000000   -0.185406     1
+  220   221   223   224     1    0.000000   -0.184531     2
+  220   221   223   224     1    0.000000    0.042111     3
+  220   221   223   224     1    0.000000    0.055186     4
+  220   221   223   224     1   90.000000    0.195645     1
+  220   221   223   224     1   90.000000   -0.530603     2
+  220   221   223   224     1   90.000000   -0.033636     3
+  220   221   223   224     1   90.000000   -0.312372     4
+  220   221   223   224     1   90.000000   15.953331     0
+  221   223   224   226     1    0.000000    0.068082     1
+  221   223   224   226     1    0.000000   -0.459752     2
+  221   223   224   226     1    0.000000    0.321160     3
+  221   223   224   226     1    0.000000    0.138277     4
+  221   223   224   226     1   90.000000    4.062207     1
+  221   223   224   226     1   90.000000   -0.070184     2
+  221   223   224   226     1   90.000000    0.665566     3
+  221   223   224   226     1   90.000000   -0.418288     4
+  221   223   224   226     1   90.000000   12.047799     0
+  223   224   226   228     1    0.000000    3.404023     1
+  223   224   226   228     1    0.000000    1.517194     2
+  223   224   226   228     1    0.000000   -0.151486     3
+  223   224   226   228     1    0.000000    0.003505     4
+  223   224   226   228     1   90.000000    4.898950     1
+  223   224   226   228     1   90.000000   -1.246595     2
+  223   224   226   228     1   90.000000   -0.587647     3
+  223   224   226   228     1   90.000000   -0.123101     4
+  223   224   226   228     1   90.000000   10.868441     0
+  224   226   228   229     1    0.000000   -0.970742     1
+  224   226   228   229     1    0.000000   -0.421440     2
+  224   226   228   229     1    0.000000    0.314365     3
+  224   226   228   229     1    0.000000    0.473802     4
+  224   226   228   229     1   90.000000    1.152995     1
+  224   226   228   229     1   90.000000   -0.597699     2
+  224   226   228   229     1   90.000000   -0.148852     3
+  224   226   228   229     1   90.000000   -0.461853     4
+  224   226   228   229     1   90.000000   15.893715     0
+  226   228   229   231     1    0.000000    0.746513     1
+  226   228   229   231     1    0.000000   -0.332803     2
+  226   228   229   231     1    0.000000    0.046517     3
+  226   228   229   231     1    0.000000    0.105136     4
+  226   228   229   231     1   90.000000   -2.617351     1
+  226   228   229   231     1   90.000000   -0.161660     2
+  226   228   229   231     1   90.000000    0.468383     3
+  226   228   229   231     1   90.000000    0.259117     4
+  226   228   229   231     1   90.000000   17.127026     0
+  228   229   231   232     1    0.000000   -0.185406     1
+  228   229   231   232     1    0.000000   -0.184531     2
+  228   229   231   232     1    0.000000    0.042111     3
+  228   229   231   232     1    0.000000    0.055186     4
+  228   229   231   232     1   90.000000    0.195645     1
+  228   229   231   232     1   90.000000   -0.530603     2
+  228   229   231   232     1   90.000000   -0.033636     3
+  228   229   231   232     1   90.000000   -0.312372     4
+  228   229   231   232     1   90.000000   15.953331     0
+  229   231   232   234     1    0.000000    0.068082     1
+  229   231   232   234     1    0.000000   -0.459752     2
+  229   231   232   234     1    0.000000    0.321160     3
+  229   231   232   234     1    0.000000    0.138277     4
+  229   231   232   234     1   90.000000    4.062207     1
+  229   231   232   234     1   90.000000   -0.070184     2
+  229   231   232   234     1   90.000000    0.665566     3
+  229   231   232   234     1   90.000000   -0.418288     4
+  229   231   232   234     1   90.000000   12.047799     0
+  231   232   234   236     1    0.000000    3.404023     1
+  231   232   234   236     1    0.000000    1.517194     2
+  231   232   234   236     1    0.000000   -0.151486     3
+  231   232   234   236     1    0.000000    0.003505     4
+  231   232   234   236     1   90.000000    4.898950     1
+  231   232   234   236     1   90.000000   -1.246595     2
+  231   232   234   236     1   90.000000   -0.587647     3
+  231   232   234   236     1   90.000000   -0.123101     4
+  231   232   234   236     1   90.000000   10.868441     0
+  232   234   236   237     1    0.000000   -0.970742     1
+  232   234   236   237     1    0.000000   -0.421440     2
+  232   234   236   237     1    0.000000    0.314365     3
+  232   234   236   237     1    0.000000    0.473802     4
+  232   234   236   237     1   90.000000    1.152995     1
+  232   234   236   237     1   90.000000   -0.597699     2
+  232   234   236   237     1   90.000000   -0.148852     3
+  232   234   236   237     1   90.000000   -0.461853     4
+  232   234   236   237     1   90.000000   15.893715     0
+  234   236   237   239     1    0.000000    0.746513     1
+  234   236   237   239     1    0.000000   -0.332803     2
+  234   236   237   239     1    0.000000    0.046517     3
+  234   236   237   239     1    0.000000    0.105136     4
+  234   236   237   239     1   90.000000   -2.617351     1
+  234   236   237   239     1   90.000000   -0.161660     2
+  234   236   237   239     1   90.000000    0.468383     3
+  234   236   237   239     1   90.000000    0.259117     4
+  234   236   237   239     1   90.000000   17.127026     0
+  236   237   239   240     1    0.000000   -0.185406     1
+  236   237   239   240     1    0.000000   -0.184531     2
+  236   237   239   240     1    0.000000    0.042111     3
+  236   237   239   240     1    0.000000    0.055186     4
+  236   237   239   240     1   90.000000    0.195645     1
+  236   237   239   240     1   90.000000   -0.530603     2
+  236   237   239   240     1   90.000000   -0.033636     3
+  236   237   239   240     1   90.000000   -0.312372     4
+  236   237   239   240     1   90.000000   15.953331     0
+  237   239   240   242     1    0.000000    0.068082     1
+  237   239   240   242     1    0.000000   -0.459752     2
+  237   239   240   242     1    0.000000    0.321160     3
+  237   239   240   242     1    0.000000    0.138277     4
+  237   239   240   242     1   90.000000    4.062207     1
+  237   239   240   242     1   90.000000   -0.070184     2
+  237   239   240   242     1   90.000000    0.665566     3
+  237   239   240   242     1   90.000000   -0.418288     4
+  237   239   240   242     1   90.000000   12.047799     0
+  239   240   242   244     1    0.000000    3.404023     1
+  239   240   242   244     1    0.000000    1.517194     2
+  239   240   242   244     1    0.000000   -0.151486     3
+  239   240   242   244     1    0.000000    0.003505     4
+  239   240   242   244     1   90.000000    4.898950     1
+  239   240   242   244     1   90.000000   -1.246595     2
+  239   240   242   244     1   90.000000   -0.587647     3
+  239   240   242   244     1   90.000000   -0.123101     4
+  239   240   242   244     1   90.000000   10.868441     0
+  240   242   244   245     1    0.000000   -0.970742     1
+  240   242   244   245     1    0.000000   -0.421440     2
+  240   242   244   245     1    0.000000    0.314365     3
+  240   242   244   245     1    0.000000    0.473802     4
+  240   242   244   245     1   90.000000    1.152995     1
+  240   242   244   245     1   90.000000   -0.597699     2
+  240   242   244   245     1   90.000000   -0.148852     3
+  240   242   244   245     1   90.000000   -0.461853     4
+  240   242   244   245     1   90.000000   15.893715     0
+  242   244   245   247     1    0.000000    0.746513     1
+  242   244   245   247     1    0.000000   -0.332803     2
+  242   244   245   247     1    0.000000    0.046517     3
+  242   244   245   247     1    0.000000    0.105136     4
+  242   244   245   247     1   90.000000   -2.617351     1
+  242   244   245   247     1   90.000000   -0.161660     2
+  242   244   245   247     1   90.000000    0.468383     3
+  242   244   245   247     1   90.000000    0.259117     4
+  242   244   245   247     1   90.000000   17.127026     0
+  244   245   247   248     1    0.000000   -0.185406     1
+  244   245   247   248     1    0.000000   -0.184531     2
+  244   245   247   248     1    0.000000    0.042111     3
+  244   245   247   248     1    0.000000    0.055186     4
+  244   245   247   248     1   90.000000    0.195645     1
+  244   245   247   248     1   90.000000   -0.530603     2
+  244   245   247   248     1   90.000000   -0.033636     3
+  244   245   247   248     1   90.000000   -0.312372     4
+  244   245   247   248     1   90.000000   15.953331     0
+  245   247   248   250     1    0.000000    0.068082     1
+  245   247   248   250     1    0.000000   -0.459752     2
+  245   247   248   250     1    0.000000    0.321160     3
+  245   247   248   250     1    0.000000    0.138277     4
+  245   247   248   250     1   90.000000    4.062207     1
+  245   247   248   250     1   90.000000   -0.070184     2
+  245   247   248   250     1   90.000000    0.665566     3
+  245   247   248   250     1   90.000000   -0.418288     4
+  245   247   248   250     1   90.000000   12.047799     0
+  247   248   250   252     1    0.000000    3.404023     1
+  247   248   250   252     1    0.000000    1.517194     2
+  247   248   250   252     1    0.000000   -0.151486     3
+  247   248   250   252     1    0.000000    0.003505     4
+  247   248   250   252     1   90.000000    4.898950     1
+  247   248   250   252     1   90.000000   -1.246595     2
+  247   248   250   252     1   90.000000   -0.587647     3
+  247   248   250   252     1   90.000000   -0.123101     4
+  247   248   250   252     1   90.000000   10.868441     0
+  248   250   252   253     1    0.000000   -0.970742     1
+  248   250   252   253     1    0.000000   -0.421440     2
+  248   250   252   253     1    0.000000    0.314365     3
+  248   250   252   253     1    0.000000    0.473802     4
+  248   250   252   253     1   90.000000    1.152995     1
+  248   250   252   253     1   90.000000   -0.597699     2
+  248   250   252   253     1   90.000000   -0.148852     3
+  248   250   252   253     1   90.000000   -0.461853     4
+  248   250   252   253     1   90.000000   15.893715     0
+  250   252   253   255     1    0.000000    0.746513     1
+  250   252   253   255     1    0.000000   -0.332803     2
+  250   252   253   255     1    0.000000    0.046517     3
+  250   252   253   255     1    0.000000    0.105136     4
+  250   252   253   255     1   90.000000   -2.617351     1
+  250   252   253   255     1   90.000000   -0.161660     2
+  250   252   253   255     1   90.000000    0.468383     3
+  250   252   253   255     1   90.000000    0.259117     4
+  250   252   253   255     1   90.000000   17.127026     0
+  252   253   255   256     1    0.000000   -0.185406     1
+  252   253   255   256     1    0.000000   -0.184531     2
+  252   253   255   256     1    0.000000    0.042111     3
+  252   253   255   256     1    0.000000    0.055186     4
+  252   253   255   256     1   90.000000    0.195645     1
+  252   253   255   256     1   90.000000   -0.530603     2
+  252   253   255   256     1   90.000000   -0.033636     3
+  252   253   255   256     1   90.000000   -0.312372     4
+  252   253   255   256     1   90.000000   15.953331     0
+  253   255   256   258     1    0.000000    0.068082     1
+  253   255   256   258     1    0.000000   -0.459752     2
+  253   255   256   258     1    0.000000    0.321160     3
+  253   255   256   258     1    0.000000    0.138277     4
+  253   255   256   258     1   90.000000    4.062207     1
+  253   255   256   258     1   90.000000   -0.070184     2
+  253   255   256   258     1   90.000000    0.665566     3
+  253   255   256   258     1   90.000000   -0.418288     4
+  253   255   256   258     1   90.000000   12.047799     0
+  255   256   258   260     1    0.000000    3.404023     1
+  255   256   258   260     1    0.000000    1.517194     2
+  255   256   258   260     1    0.000000   -0.151486     3
+  255   256   258   260     1    0.000000    0.003505     4
+  255   256   258   260     1   90.000000    4.898950     1
+  255   256   258   260     1   90.000000   -1.246595     2
+  255   256   258   260     1   90.000000   -0.587647     3
+  255   256   258   260     1   90.000000   -0.123101     4
+  255   256   258   260     1   90.000000   10.868441     0
+  256   258   260   261     1    0.000000   -0.970742     1
+  256   258   260   261     1    0.000000   -0.421440     2
+  256   258   260   261     1    0.000000    0.314365     3
+  256   258   260   261     1    0.000000    0.473802     4
+  256   258   260   261     1   90.000000    1.152995     1
+  256   258   260   261     1   90.000000   -0.597699     2
+  256   258   260   261     1   90.000000   -0.148852     3
+  256   258   260   261     1   90.000000   -0.461853     4
+  256   258   260   261     1   90.000000   15.893715     0
